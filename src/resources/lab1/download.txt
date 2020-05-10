@@ -122,7 +122,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='all-css-0' href='https://9to5mac.com/_static/??/wp-includes/css/dist/block-library/style.min.css,/wp-content/themes/9to5-2015/assets/css/darkmode.css?m=1588186644' type='text/css' media='all' />
+	<link rel='stylesheet' id='all-css-0' href='https://9to5mac.com/_static/??/wp-includes/css/dist/block-library/style.min.css,/wp-content/themes/9to5-2015/assets/css/darkmode.css?m=1588186645' type='text/css' media='all' />
 <style id='wp-block-library-inline-css'>
 .has-text-align-justify{text-align:justify;}
 </style>
@@ -253,11 +253,11 @@ img.emoji {
 	<link rel="mask-icon" color="#034981" href="https://9to5mac.com/wp-content/themes/9to5-2015/images/9to5-clock.svg"><meta name="msapplication-TileImage" content="https://9to5mac.com/wp-content/uploads/sites/6/2019/10/cropped-cropped-mac1-1.png?w=270" />
 
 	<style>
-		.st064b0d8a { padding: 10px 0; text-align: center; background: url('https://9to5mac.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg.png') repeat center; min-height: 110px; }
-		.st064b0d8a .inlinead { background-color: transparent; min-height: 1px; }
-		.st064b0d8a .inlinead > div { background-color: transparent; padding: 0; }
+		.th6c533e57 { padding: 10px 0; text-align: center; background: url('https://9to5mac.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg.png') repeat center; min-height: 110px; }
+		.th6c533e57 .inlinead { background-color: transparent; min-height: 1px; }
+		.th6c533e57 .inlinead > div { background-color: transparent; padding: 0; }
 
-		.color-scheme-electrek .st064b0d8a { background-color: #939598; }
+		.color-scheme-electrek .th6c533e57 { background-color: #939598; }
 
 		.ad { margin: 0 auto; }
 
@@ -273,35 +273,35 @@ img.emoji {
 		.post-leaderboard > * { margin: 0 auto; text-align: center; display: block; }
 
 		/** inline ads **/
-		.st96a14a11 { background: url('https://9to5mac.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg.png') repeat center; max-width: 100%; overflow: hidden; text-align: center; }\
-		.st96a14a11 > div, .st96a14a11 > ins { padding: 20px 0; margin: 0 auto; }
-		.darkmode--activated .st064b0d8a,
-		.darkmode--activated .st96a14a11,
+		.th3757a6da { background: url('https://9to5mac.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg.png') repeat center; max-width: 100%; overflow: hidden; text-align: center; }\
+		.th3757a6da > div, .th3757a6da > ins { padding: 20px 0; margin: 0 auto; }
+		.darkmode--activated .th6c533e57,
+		.darkmode--activated .th3757a6da,
 		.darkmode--activated .inlinead {
 			background: url('https://9to5mac.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg-dark.png') repeat center;
 			isolation: isolate;
 		}
-		@media only screen and (min-width: 768px) { .st96a14a11 > div, .st96a14a11 > ins { display: block; padding: 25px 10px 25px 0; }
+		@media only screen and (min-width: 768px) { .th3757a6da > div, .th3757a6da > ins { display: block; padding: 25px 10px 25px 0; }
 
-		.post-body .st96a14a11 { background-color: transparent; }
+		.post-body .th3757a6da { background-color: transparent; }
 
-		.st679c4824 { width: 300px; min-height: 250px; isolation: isolate; }
-		@media (min-device-width: 320px) and (max-device-width: 479px) { .st679c4824 { width: 300px; min-height: 250px; } }
-		@media (min-device-width: 480px) and (max-device-width: 767px) { .st679c4824 { width: 300px; min-height: 250px; } }
-		@media (min-width: 768px) { .st679c4824 { float: right; margin-left: 20px; width: 336px; min-height: 280px; } }
+		.th7a243c97 { width: 300px; min-height: 250px; isolation: isolate; }
+		@media (min-device-width: 320px) and (max-device-width: 479px) { .th7a243c97 { width: 300px; min-height: 250px; } }
+		@media (min-device-width: 480px) and (max-device-width: 767px) { .th7a243c97 { width: 300px; min-height: 250px; } }
+		@media (min-width: 768px) { .th7a243c97 { float: right; margin-left: 20px; width: 336px; min-height: 280px; } }
 		@media (min-width: 1000px) {
-			.st679c4824 { margin: 0 -105px 20px 20px; }
-			.aside-post .st679c4824 { margin-top: 20px; }
+			.th7a243c97 { margin: 0 -105px 20px 20px; }
+			.aside-post .th7a243c97 { margin-top: 20px; }
 		}
 
-		.st6e6348a9 { line-height: 0; max-width: 300px; position: relative; }
-		.st6e6348a9 h3 { background: rgba(0, 0, 0, 0.7); bottom: 0; box-sizing: border-box; color: #fff; font-size: 1.17em; font-weight: 400; line-height: 1.3; margin: 0 0; padding: 0.25em 0.5em; position: absolute; text-align: left; width: 100%; }
-		.post-body .st6e6348a9 h3 { font-size: 1em; }
-		@media (min-width: 768px) { .post-body .st6e6348a9 { float: right; margin-left: 20px; width: 300px; height: 250px; } }
-		@media (min-width: 1000px) { .post-body .st6e6348a9 { margin: 0 -105px 20px 20px; } }
+		.th0c323e81 { line-height: 0; max-width: 300px; position: relative; }
+		.th0c323e81 h3 { background: rgba(0, 0, 0, 0.7); bottom: 0; box-sizing: border-box; color: #fff; font-size: 1.17em; font-weight: 400; line-height: 1.3; margin: 0 0; padding: 0.25em 0.5em; position: absolute; text-align: left; width: 100%; }
+		.post-body .th0c323e81 h3 { font-size: 1em; }
+		@media (min-width: 768px) { .post-body .th0c323e81 { float: right; margin-left: 20px; width: 300px; height: 250px; } }
+		@media (min-width: 1000px) { .post-body .th0c323e81 { margin: 0 -105px 20px 20px; } }
 
-		.st3dfb6948 .st6e6348a9 { margin: 0 auto; }
-		.st1bb6df42 { cursor: pointer }
+		.thdd9198f3 .th0c323e81 { margin: 0 auto; }
+		.tha04f3c9b { cursor: pointer }
 	</style>
 			<style type="text/css" id="wp-custom-css">
 				 .darkmode--activated.color-scheme-mac .author-content .post-title {
@@ -637,13 +637,13 @@ body.darkmode--activated {
 			<div class="order-control">
 				
 				<section class="trending-grid"><div class="trending-grid-items">
-				<a href="https://9to5mac.com/2020/04/28/which-ipad-should-you-buy-hands-on-with-the-ipad-7-ipad-mini-5-ipad-air-3-and-ipad-pro-2020/" rel="bookmark" class="grid-link">
-					<div  class="trending-grid-item trending-grid-item--homepage trending-item-1" data-href="https://9to5mac.com/2020/04/28/which-ipad-should-you-buy-hands-on-with-the-ipad-7-ipad-mini-5-ipad-air-3-and-ipad-pro-2020/">
-						<div class="img-wrap" style="background-image: url(https://9to5mac.com/wp-content/uploads/sites/6/2020/04/Which-iPad-Should-I-Buy.jpg?quality=82&#038;strip=all&#038;w=1600);"></div>
+				<a href="https://9to5mac.com/2020/05/07/13-inch-macbook-pro-review-roundup/" rel="bookmark" class="grid-link">
+					<div  class="trending-grid-item trending-grid-item--homepage trending-item-1" data-href="https://9to5mac.com/2020/05/07/13-inch-macbook-pro-review-roundup/">
+						<div class="img-wrap" style="background-image: url(https://9to5mac.com/wp-content/uploads/sites/6/2020/05/13-inch-2020-macbook-pro-review-roundup.jpg?quality=82&#038;strip=all&#038;w=1600);"></div>
 						<div class="inner">
 							<header>
 								<p class="trending-post-title">
-								Video: Which iPad should you buy?
+								Review roundup: 2020 13-inch MacBook Pro
 								</p>
 									
 							</header>
@@ -651,13 +651,13 @@ body.darkmode--activated {
 					</div>
 				</a>
 			
-				<a href="https://9to5mac.com/2020/04/24/magic-keyboard-for-ipad-pro-review-top-features-best-ipad-accessory-ever-video/" rel="bookmark" class="grid-link">
-					<div  class="trending-grid-item trending-grid-item--homepage trending-item-2" data-href="https://9to5mac.com/2020/04/24/magic-keyboard-for-ipad-pro-review-top-features-best-ipad-accessory-ever-video/">
-						<div class="img-wrap" style="background-image: url(https://9to5mac.com/wp-content/uploads/sites/6/2020/04/Magic-Keyboard-for-iPad-Pro-Top-Features-01.jpg?quality=82&#038;strip=all&#038;w=1600);"></div>
+				<a href="https://9to5mac.com/2020/05/06/medical-id-emergency-sos/" rel="bookmark" class="grid-link">
+					<div  class="trending-grid-item trending-grid-item--homepage trending-item-2" data-href="https://9to5mac.com/2020/05/06/medical-id-emergency-sos/">
+						<div class="img-wrap" style="background-image: url(https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Apple-Watch-Medical-ID.jpg?quality=82&#038;strip=all&#038;w=1600);"></div>
 						<div class="inner">
 							<header>
 								<p class="trending-post-title">
-								Video: Magic Keyboard for iPad Pro top features
+								Apple Watch to send Medical ID to first responders
 								</p>
 									
 							</header>
@@ -665,13 +665,13 @@ body.darkmode--activated {
 					</div>
 				</a>
 			
-				<a href="https://9to5mac.com/2020/04/27/apple-over-ear-headphones-roundup/" rel="bookmark" class="grid-link">
-					<div  class="trending-grid-item trending-grid-item--homepage trending-item-3" data-href="https://9to5mac.com/2020/04/27/apple-over-ear-headphones-roundup/">
-						<div class="img-wrap" style="background-image: url(https://9to5mac.com/wp-content/uploads/sites/6/2019/10/ZAC06161.jpeg?quality=82&#038;strip=all&#038;w=1600);"></div>
+				<a href="https://9to5mac.com/2020/05/05/apple-announces-virtual-wwdc-starting-on-june-22/" rel="bookmark" class="grid-link">
+					<div  class="trending-grid-item trending-grid-item--homepage trending-item-3" data-href="https://9to5mac.com/2020/05/05/apple-announces-virtual-wwdc-starting-on-june-22/">
+						<div class="img-wrap" style="background-image: url(https://9to5mac.com/wp-content/uploads/sites/6/2020/05/apple_wwdc-announcement_ready-set-code_05052020.jpg?quality=82&#038;strip=all&#038;w=1600);"></div>
 						<div class="inner">
 							<header>
 								<p class="trending-post-title">
-								Everything we know about Apple&#039;s over-ear headphones
+								Apple kicking off week of virtual WWDC on June 22
 								</p>
 									
 							</header>
@@ -679,13 +679,13 @@ body.darkmode--activated {
 					</div>
 				</a>
 			
-				<a href="https://9to5mac.com/2020/04/27/dji-mavic-air-2-review-major-upgrade-with-48mp-4k60-cam-is-more-mavic-2-than-air/" rel="bookmark" class="grid-link">
-					<div  class="trending-grid-item trending-grid-item--homepage trending-item-4" data-href="https://9to5mac.com/2020/04/27/dji-mavic-air-2-review-major-upgrade-with-48mp-4k60-cam-is-more-mavic-2-than-air/">
-						<div class="img-wrap" style="background-image: url(https://9to5mac.com/wp-content/uploads/sites/6/2020/04/Mavic-air-2-2.jpg?quality=82&#038;strip=all&#038;w=1600);"></div>
+				<a href="https://9to5mac.com/2020/05/06/macbook-air-2020-review-999-apple-cheapest-laptop-great-mac-video/" rel="bookmark" class="grid-link">
+					<div  class="trending-grid-item trending-grid-item--homepage trending-item-4" data-href="https://9to5mac.com/2020/05/06/macbook-air-2020-review-999-apple-cheapest-laptop-great-mac-video/">
+						<div class="img-wrap" style="background-image: url(https://9to5mac.com/wp-content/uploads/sites/6/2020/05/MacBook-Air-2020-Review-Box-Shot.jpeg?quality=82&#038;strip=all&#038;w=1600);"></div>
 						<div class="inner">
 							<header>
 								<p class="trending-post-title">
-								DJI Mavic Air 2 review: More Mavic 2 than Air
+								Video: MacBook Air (2020) review
 								</p>
 									
 							</header>
@@ -693,7 +693,7 @@ body.darkmode--activated {
 					</div>
 				</a>
 			</div></section>
-				<div class="st064b0d8a ad-container ad-container--leaderboard order-control__mobile-top">
+				<div class="th6c533e57 ad-container ad-container--leaderboard order-control__mobile-top">
 					<div id="div-gpt-ad-1436850350386-0" class="inlinead"></div>
 <script type='text/javascript'>
 	// Make sure that nineto5ads exists, it will load ad once google tag exists
@@ -733,77 +733,60 @@ body.darkmode--activated {
 			</div><!-- .news-feed-header -->
 			<div id="news-placeholder"></div>
 
-		<article class="post-content" itemscope itemtype="http://schema.org/NewsArticle">
-				<div class="elastic-container">
-					<h1 class="post-title" itemprop="headline"><a href="https://9to5mac.com/2020/05/01/free-audiobooks-2/" itemprop="mainEntityOfPage">Apple Music offers 13 free audiobooks from &#8216;iconic musicians&#8217; inc Debbie Harry, Pete Townsend, Rakim</a></h1>
-					<div class="post-meta">
-						<p class="byline" itemprop="author" itemscope itemtype="https://schema.org/Person">
-							<a href="https://9to5mac.com/author/benlovejoy/">
-								<span itemprop="name">Ben Lovejoy</span>
-							</a>
-						</p>
-						<p class="time-twitter">
-							- May. 1st 2020 5:00 am PT
-								<div class="icon-twitter"></div>
-								<p><a href="https://twitter.com/benlovejoy" target="_blank" class="twitter-handle">@benlovejoy</a></p>
-						</p>
+		<article class="post-content aside" itemscope itemtype="http://schema.org/NewsArticle">
 
-							<div class="tags">
-								<div class="post-cats">
+				<div class="aside-posts">
+					<div class="individual-aside">
+						<div class="elastic-container">
+							<div class="aside-row">
+									<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+										<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Zoom-bought-Keybase-for-end-to-end-encryption.jpg?quality=82&#038;strip=all&#038;w=1500">
+										<meta itemprop="height" content="750">
+										<meta itemprop="width" content="1500">
+									</div>
+									<a class="more-article aside-img img-wrap"
+									   href="https://9to5mac.com/2020/05/07/zoom-bought-keybase/"
+									   style="background-image: url( https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Zoom-bought-Keybase-for-end-to-end-encryption.jpg?quality=82&#038;strip=all&#038;w=1500 );">
+									</a>
+								<div class="aside-title">
+									<a class="more-article" href="https://9to5mac.com/2020/05/07/zoom-bought-keybase/" itemprop="mainEntityOfPage">
+										<p class="aside-title-p" itemprop="headline">Zoom bought Keybase to bring end-to-end encryption to its videoconferences</p>
+									</a>
 
-										<a href="https://9to5mac.com/guides/audiobook/" title="View all posts in Audiobook">Audiobook</a>
-								</div><!-- .post-cats -->
-							</div><!-- .tags -->
+									<meta itemprop="datePublished" content="2020-05-07 07:16:39"/>
+									<meta itemprop="dateModified" content="2020-05-07 07:16:39"/>
+									<p class="aside-post-meta">
+										<a href="https://9to5mac.com/author/benlovejoy/" itemprop="author" itemscope itemtype="https://schema.org/Person" class="distributed-from-">
+											<span itemprop="name">Ben Lovejoy</span>
+										</a> -
+										May. 7th 2020 7:16 am PT
+									</p>
+									<div class="aside-excerpt" >
+									<p>A new blog post today reveals that <a href="https://9to5mac.com/guides/zoom/" target="_blank" rel="noopener noreferrer">Zoom</a> bought Keybase, a 25-person startup specializing in encrypted message and file-sharing. It is the first acquisition in Zoom&#8217;s history &#8230;</p>
 
+									</div>
 
-						<meta itemprop="keywords" content="Audiobook,"/>
-						<meta itemprop="datePublished" content="2020-05-01 05:00:34"/>
-						<meta itemprop="dateModified" content="2020-05-01 05:00:34"/>
-					</div><!-- .post-meta -->
-				</div><!-- .elastic-container -->
-				<div class="feat-image-wrapper">
-						<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-							<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Free-audiobooks-on-Apple-Music.jpg?quality=82&#038;strip=all&#038;w=1500">
-							<meta itemprop="height" content="750">
-							<meta itemprop="width" content="1500">
-						</div>
-						<div class="feat-image wide">
-							<a href="https://9to5mac.com/2020/05/01/free-audiobooks-2/">
-								<img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Free-audiobooks-on-Apple-Music.jpg?quality=82&#038;strip=all&#038;w=1500" srcset="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Free-audiobooks-on-Apple-Music.jpg?w=320&amp;quality=82&amp;strip=all&amp;ssl=1 320w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Free-audiobooks-on-Apple-Music.jpg?w=640&amp;quality=82&amp;strip=all&amp;ssl=1 640w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Free-audiobooks-on-Apple-Music.jpg?w=1024&amp;quality=82&amp;strip=all&amp;ssl=1 1024w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Free-audiobooks-on-Apple-Music.jpg?w=1500&amp;quality=82&amp;strip=all&amp;ssl=1 1500w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Free-audiobooks-on-Apple-Music.jpg?w=2000&amp;quality=82&amp;strip=all&amp;ssl=1 2000w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Free-audiobooks-on-Apple-Music.jpg?w=2500&amp;quality=82&amp;strip=all&amp;ssl=1 2500w" width="1500" height="750" loading="lazy">
-							</a>
-						</div><!-- .feat-image -->
-					<div class="post-social-mobile">
-						<a href="https://9to5mac.com/2020/05/01/free-audiobooks-2/#comments" class="comments" itemprop="discussionUrl"><span class="dsq-postid" data-dsqidentifier="643617 https://9to5mac.com/?p=643617">0</span></a>
-						<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-text sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-643617" class="share-facebook sd-button no-icon" href="https://9to5mac.com/2020/05/01/free-audiobooks-2/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-643617" class="share-twitter sd-button no-icon" href="https://9to5mac.com/2020/05/01/free-audiobooks-2/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-643617" class="share-pinterest sd-button no-icon" href="https://9to5mac.com/2020/05/01/free-audiobooks-2/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-643617" class="share-linkedin sd-button no-icon" href="https://9to5mac.com/2020/05/01/free-audiobooks-2/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button no-icon" href="https://9to5mac.com/2020/05/01/free-audiobooks-2/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li></ul></div></div></div>
-					</div><!-- .post-social-mobile -->
-				</div><!-- .feat-image-wrapper -->
-				<div class="elastic-container">
+										<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+											<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+												<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2018/10/cropped-cropped-9to5-mac-logo-min1.png">
+												<meta itemprop="width" content="350">
+												<meta itemprop="height" content="60">
+											</div>
+											<meta itemprop="name" content="9to5Mac">
+										</div>
 
-					<div class="post-body" itemprop="articleBody">
-						<p>Apple is currently offering the ability to stream 13 free audiobooks from &#8216;iconic musicians&#8217; as part of an Apple Music subscription.</p>
-<p>The offer is showing up in the Browse tab, and currently appears to be limited to US subscribers &#8230;</p>
-<p> <a href="https://9to5mac.com/2020/05/01/free-audiobooks-2/#more-643617" class="more-link"><span class="moretext" data-layer-pagetype="post" data-layer-postcategory="audiobook">expand full story</span> <span class="x-animate"></span></a></p>
-
-					</div><!-- .post-body -->
-
-
-				</div><!-- .elastic-container -->
-
-				<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-					<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-						<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2018/10/cropped-cropped-9to5-mac-logo-min1.png">
-						<meta itemprop="width" content="350">
-						<meta itemprop="height" content="60">
+								</div>
+								<a class="more-article more-article-expand" href="https://9to5mac.com/2020/05/07/zoom-bought-keybase/">
+									<div class="expand">
+										<p><span class="x-animate"></span></p>
+									</div><!-- .expand -->
+								</a>
+							</div><!-- .related-row -->
+							<div class="aside-post"></div>
+						</div><!-- .elastic-container -->
 					</div>
-					<meta itemprop="name" content="9to5Mac">
-				</div>
+				</div><!-- .aside-posts -->
 
-
-
-
-
-
-				<div id="div-gpt-ad-1437016474156-0-643617" class="inlinead"></div>
 
 		</article><!-- .post-content -->
 
@@ -811,55 +794,53 @@ body.darkmode--activated {
 
 		<article class="post-content" itemscope itemtype="http://schema.org/NewsArticle">
 				<div class="elastic-container">
-					<h1 class="post-title" itemprop="headline"><a href="https://9to5mac.com/2020/05/01/global-smartphone-shipments-2/" itemprop="mainEntityOfPage">Global smartphone shipments in Q1 fell 10% or 11.7% or 13% or 16.8%</a></h1>
+					<h1 class="post-title" itemprop="headline"><a href="https://9to5mac.com/2020/05/07/13-inch-macbook-pro-review-roundup/" itemprop="mainEntityOfPage">Review roundup: 2020 13-inch MacBook Pro is a &#8216;strong and safe bet&#8217; but also the &#8216;awkward middle child&#8217; [Videos]</a></h1>
 					<div class="post-meta">
 						<p class="byline" itemprop="author" itemscope itemtype="https://schema.org/Person">
-							<a href="https://9to5mac.com/author/benlovejoy/">
-								<span itemprop="name">Ben Lovejoy</span>
+							<a href="https://9to5mac.com/author/michaelpotuck/">
+								<span itemprop="name">Michael Potuck</span>
 							</a>
 						</p>
 						<p class="time-twitter">
-							- May. 1st 2020 4:25 am PT
+							- May. 7th 2020 7:04 am PT
 								<div class="icon-twitter"></div>
-								<p><a href="https://twitter.com/benlovejoy" target="_blank" class="twitter-handle">@benlovejoy</a></p>
+								<p><a href="https://twitter.com/michaelpotuck" target="_blank" class="twitter-handle">@michaelpotuck</a></p>
 						</p>
 
 							<div class="tags">
 								<div class="post-cats">
 
-										<a href="https://9to5mac.com/guides/aapl/" title="View all posts in AAPL Company">AAPL Company</a>
-										<a href="https://9to5mac.com/guides/iphone/" title="View all posts in iPhone">iPhone</a>
+										<a href="https://9to5mac.com/guides/macbook-pro/" title="View all posts in MacBook Pro">MacBook Pro</a>
 								</div><!-- .post-cats -->
 							</div><!-- .tags -->
 
 
-						<meta itemprop="keywords" content="AAPL Company,iPhone,"/>
-						<meta itemprop="datePublished" content="2020-05-01 04:25:39"/>
-						<meta itemprop="dateModified" content="2020-05-01 04:25:39"/>
+						<meta itemprop="keywords" content="MacBook Pro,"/>
+						<meta itemprop="datePublished" content="2020-05-07 07:04:16"/>
+						<meta itemprop="dateModified" content="2020-05-07 07:14:13"/>
 					</div><!-- .post-meta -->
 				</div><!-- .elastic-container -->
 				<div class="feat-image-wrapper">
 						<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-							<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Global-smartphone-shipments-fell-as-stores-closed.jpg?quality=82&#038;strip=all&#038;w=1000">
-							<meta itemprop="height" content="500">
-							<meta itemprop="width" content="1000">
+							<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/13-inch-2020-macbook-pro-review-roundup.jpg?quality=82&#038;strip=all&#038;w=1600">
+							<meta itemprop="height" content="804">
+							<meta itemprop="width" content="1600">
 						</div>
 						<div class="feat-image wide">
-							<a href="https://9to5mac.com/2020/05/01/global-smartphone-shipments-2/">
-								<img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Global-smartphone-shipments-fell-as-stores-closed.jpg?quality=82&#038;strip=all&#038;w=1000" srcset="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Global-smartphone-shipments-fell-as-stores-closed.jpg?w=320&amp;quality=82&amp;strip=all&amp;ssl=1 320w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Global-smartphone-shipments-fell-as-stores-closed.jpg?w=640&amp;quality=82&amp;strip=all&amp;ssl=1 640w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Global-smartphone-shipments-fell-as-stores-closed.jpg?w=1024&amp;quality=82&amp;strip=all&amp;ssl=1 1024w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Global-smartphone-shipments-fell-as-stores-closed.jpg?w=1500&amp;quality=82&amp;strip=all&amp;ssl=1 1500w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Global-smartphone-shipments-fell-as-stores-closed.jpg?w=2000&amp;quality=82&amp;strip=all&amp;ssl=1 2000w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Global-smartphone-shipments-fell-as-stores-closed.jpg?w=2500&amp;quality=82&amp;strip=all&amp;ssl=1 2500w" width="1000" height="500" loading="lazy">
+							<a href="https://9to5mac.com/2020/05/07/13-inch-macbook-pro-review-roundup/">
+								<img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/13-inch-2020-macbook-pro-review-roundup.jpg?quality=82&#038;strip=all&#038;w=1600" srcset="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/13-inch-2020-macbook-pro-review-roundup.jpg?w=320&amp;quality=82&amp;strip=all&amp;ssl=1 320w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/13-inch-2020-macbook-pro-review-roundup.jpg?w=640&amp;quality=82&amp;strip=all&amp;ssl=1 640w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/13-inch-2020-macbook-pro-review-roundup.jpg?w=1024&amp;quality=82&amp;strip=all&amp;ssl=1 1024w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/13-inch-2020-macbook-pro-review-roundup.jpg?w=1500&amp;quality=82&amp;strip=all&amp;ssl=1 1500w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/13-inch-2020-macbook-pro-review-roundup.jpg?w=2000&amp;quality=82&amp;strip=all&amp;ssl=1 2000w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/13-inch-2020-macbook-pro-review-roundup.jpg?w=2500&amp;quality=82&amp;strip=all&amp;ssl=1 2500w" width="1600" height="804" loading="lazy">
 							</a>
 						</div><!-- .feat-image -->
 					<div class="post-social-mobile">
-						<a href="https://9to5mac.com/2020/05/01/global-smartphone-shipments-2/#comments" class="comments" itemprop="discussionUrl"><span class="dsq-postid" data-dsqidentifier="643614 https://9to5mac.com/?p=643614">0</span></a>
-						<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-text sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-643614" class="share-facebook sd-button no-icon" href="https://9to5mac.com/2020/05/01/global-smartphone-shipments-2/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-643614" class="share-twitter sd-button no-icon" href="https://9to5mac.com/2020/05/01/global-smartphone-shipments-2/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-643614" class="share-pinterest sd-button no-icon" href="https://9to5mac.com/2020/05/01/global-smartphone-shipments-2/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-643614" class="share-linkedin sd-button no-icon" href="https://9to5mac.com/2020/05/01/global-smartphone-shipments-2/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button no-icon" href="https://9to5mac.com/2020/05/01/global-smartphone-shipments-2/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li></ul></div></div></div>
+						<a href="https://9to5mac.com/2020/05/07/13-inch-macbook-pro-review-roundup/#comments" class="comments" itemprop="discussionUrl"><span class="dsq-postid" data-dsqidentifier="644416 https://9to5mac.com/?p=644416">0</span></a>
+						<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-text sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-644416" class="share-facebook sd-button no-icon" href="https://9to5mac.com/2020/05/07/13-inch-macbook-pro-review-roundup/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-644416" class="share-twitter sd-button no-icon" href="https://9to5mac.com/2020/05/07/13-inch-macbook-pro-review-roundup/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-644416" class="share-pinterest sd-button no-icon" href="https://9to5mac.com/2020/05/07/13-inch-macbook-pro-review-roundup/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-644416" class="share-linkedin sd-button no-icon" href="https://9to5mac.com/2020/05/07/13-inch-macbook-pro-review-roundup/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button no-icon" href="https://9to5mac.com/2020/05/07/13-inch-macbook-pro-review-roundup/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li></ul></div></div></div>
 					</div><!-- .post-social-mobile -->
 				</div><!-- .feat-image-wrapper -->
 				<div class="elastic-container">
 
 					<div class="post-body" itemprop="articleBody">
-						<p>Three market intelligence companies have provided their estimates of global smartphone shipments in Q1, putting <a href="https://9to5mac.com/2020/04/30/aapl-q2-2020-earnings/" target="_blank" rel="noopener noreferrer">yesterday&#8217;s Apple earnings report</a> into perspective.</p>
-<p>Apple yesterday announced that iPhone revenue for calendar Q1 (fiscal Q2) was down from $31.05B in 2019 to $28.96B this year, a relatively modest fall of 6.7%. The comparative estimates from IDC, Counterpoint and Omdia follow an earlier one from TrendForce &#8230;</p>
-<p> <a href="https://9to5mac.com/2020/05/01/global-smartphone-shipments-2/#more-643614" class="more-link"><span class="moretext" data-layer-pagetype="post" data-layer-postcategory="aapl,iphone">expand full story</span> <span class="x-animate"></span></a></p>
+						<p>The 2020 <a href="https://9to5mac.com/2020/05/04/apple-updates-13-inch-macbook-pro-with-magic-keyboard-doubles-ssd-storage/">13-inch MacBook Pro</a> has arrived and we&#8217;re seeing the first reviews land today taking a closer look at Apple&#8217;s latest notebook with the reliable Magic Keyboard. No surprises overall but take a look below as <em>The Verge</em>, <em>TechCrunch</em>, <em>Engadget</em>, MKBHD, and UrAvgConsumer highlight why the new 13-inch MacBook Pro is a &#8220;strong and safe bet&#8221; and also the &#8220;awkward middle child&#8221; of the MacBook lineup.</p>
+<p> <a href="https://9to5mac.com/2020/05/07/13-inch-macbook-pro-review-roundup/#more-644416" class="more-link"><span class="moretext" data-layer-pagetype="post" data-layer-postcategory="macbook-pro">expand full story</span> <span class="x-animate"></span></a></p>
 
 					</div><!-- .post-body -->
 
@@ -900,29 +881,29 @@ body.darkmode--activated {
 						<div class="elastic-container">
 							<div class="aside-row">
 									<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-										<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2019/12/apple-tv-plus.jpg?quality=82&#038;strip=all&#038;w=1288">
-										<meta itemprop="height" content="644">
-										<meta itemprop="width" content="1288">
+										<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Apple-style-contact-tracing-agreed.jpg?quality=82&#038;strip=all&#038;w=1500">
+										<meta itemprop="height" content="750">
+										<meta itemprop="width" content="1500">
 									</div>
 									<a class="more-article aside-img img-wrap"
-									   href="https://9to5mac.com/2020/05/01/apple-tv-plus-tv-shows-movies-guide/"
-									   style="background-image: url( https://9to5mac.com/wp-content/uploads/sites/6/2019/12/apple-tv-plus.jpg?quality=82&#038;strip=all&#038;w=1288 );">
+									   href="https://9to5mac.com/2020/05/07/apple-style-contact-tracing/"
+									   style="background-image: url( https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Apple-style-contact-tracing-agreed.jpg?quality=82&#038;strip=all&#038;w=1500 );">
 									</a>
 								<div class="aside-title">
-									<a class="more-article" href="https://9to5mac.com/2020/05/01/apple-tv-plus-tv-shows-movies-guide/" itemprop="mainEntityOfPage">
-										<p class="aside-title-p" itemprop="headline">Apple TV+ Guide: Here are all the Apple TV shows and movies available now</p>
+									<a class="more-article" href="https://9to5mac.com/2020/05/07/apple-style-contact-tracing/" itemprop="mainEntityOfPage">
+										<p class="aside-title-p" itemprop="headline">Seven European countries agree on Apple-style contact tracing; API not certain</p>
 									</a>
 
-									<meta itemprop="datePublished" content="2020-05-01 01:28:18"/>
-									<meta itemprop="dateModified" content="2020-05-01 01:29:54"/>
+									<meta itemprop="datePublished" content="2020-05-07 06:18:33"/>
+									<meta itemprop="dateModified" content="2020-05-07 06:18:33"/>
 									<p class="aside-post-meta">
-										<a href="https://9to5mac.com/author/benjaminmayo/" itemprop="author" itemscope itemtype="https://schema.org/Person" class="distributed-from-">
-											<span itemprop="name">Benjamin Mayo</span>
+										<a href="https://9to5mac.com/author/benlovejoy/" itemprop="author" itemscope itemtype="https://schema.org/Person" class="distributed-from-">
+											<span itemprop="name">Ben Lovejoy</span>
 										</a> -
-										May. 1st 2020 1:28 am PT
+										May. 7th 2020 6:18 am PT
 									</p>
 									<div class="aside-excerpt" >
-									<p>Apple TV+ offers exclusive Apple original TV shows and movies in 4K HDR quality. You can watch across all of your screens and pick up where you left off on any device. Apple TV+ costs $4.99 per month. Here&#8217;s every Apple original television show and movie available now on Apple TV+, as well as the latest trailers &#8230;</p>
+									<p>Seven European countries have now agreed to use an Apple-style contact tracing approach, where Bluetooth codes are stored on phones, not in a central server &#8230;</p>
 
 									</div>
 
@@ -936,7 +917,7 @@ body.darkmode--activated {
 										</div>
 
 								</div>
-								<a class="more-article more-article-expand" href="https://9to5mac.com/2020/05/01/apple-tv-plus-tv-shows-movies-guide/">
+								<a class="more-article more-article-expand" href="https://9to5mac.com/2020/05/07/apple-style-contact-tracing/">
 									<div class="expand">
 										<p><span class="x-animate"></span></p>
 									</div><!-- .expand -->
@@ -946,6 +927,296 @@ body.darkmode--activated {
 						</div><!-- .elastic-container -->
 					</div>
 				</div><!-- .aside-posts -->
+
+
+		</article><!-- .post-content -->
+
+	
+			<div class="feed-title-bar ninetofive-google">
+				<div class="elastic-container">
+					<div class="currently-reading">
+						<a class="currently-reading__link" href="https://9to5google.com/" target="blank">9to5Google&nbsp;</a>
+
+						<span class="social-icons">
+								<a href="http://www.facebook.com/pages/9to5Google/218132111544562" class="icon-facebook"></a>
+
+								<a href="http://twitter.com/9to5google" class="icon-twitter"></a>
+
+								<a href="https://www.youtube.com/c/9to5google?sub_confirmation=1" class="icon-youtube"></a>
+
+								<a href="https://itunes.apple.com/us/podcast/alphabet-scoop/id1359922601?mt=2" class="social-icon-svg social-icon-podcast">
+									<svg class="ninetofive-icon podcast" aria-hidden="true">
+										<use xlink:href="/wp-content/themes/9to5-2015/images/svg-sprite-1.svg#ninetofive-icon-podcast"></use>
+									</svg>
+								</a>
+
+								<a href="https://eepurl.com/bdw6AH" class="social-icon-svg social-icon-newsletter">
+									<svg class="ninetofive-icon email " aria-hidden="true">
+										<use xlink:href="/wp-content/themes/9to5-2015/images/svg-sprite-1.svg#ninetofive-icon-email"></use>
+									</svg>
+								</a>
+						</span>
+					</div>
+				</div>
+			</div>
+
+			<aside class="trending-wrapper">
+				<div class="trending-items trending-items--cross-site trending-items--google">
+					
+						<div title="[Update: Gone] Android TV devices can now be added to Google Home speaker groups" class="trending-grid-item">
+							<a href="https://9to5google.com/2020/05/07/android-tv-google-home-speaker-groups/" class="trending-item">
+								<div class="img-wrap" style="background-image: url(https://i1.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/04/google_adt3_android_tv_1.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
+								<p class="trending-excerpt">[Update: Gone] Android TV devices can now be added to Google Home speaker groups</p>
+							</a>
+						</div>
+						<div title="[Update: Delta] Pixel 4 face unlock is supported by these Android apps" class="trending-grid-item">
+							<a href="https://9to5google.com/2020/05/07/pixel-4-face-unlock-apps-support/" class="trending-item">
+								<div class="img-wrap" style="background-image: url(https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/10/Pixel-4-lifestyle.png?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
+								<p class="trending-excerpt">[Update: Delta] Pixel 4 face unlock is supported by these Android apps</p>
+							</a>
+						</div>
+						<div title="LG Velvet goes official w/ Snapdragon 765 chipset, 8GB RAM, and stylus support" class="trending-grid-item">
+							<a href="https://9to5google.com/2020/05/07/lg-velvet-goes-official/" class="trending-item">
+								<div class="img-wrap" style="background-image: url(https://i1.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/05/LG-Velvet-launch.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
+								<p class="trending-excerpt">LG Velvet goes official w/ Snapdragon 765 chipset, 8GB RAM, and stylus support</p>
+							</a>
+						</div>
+						<div title="Google Lens lookups now include inline Search results, ‘copy to computer’ text shortcut" class="trending-grid-item">
+							<a href="https://9to5google.com/2020/05/07/google-lens-web-search/" class="trending-item">
+								<div class="img-wrap" style="background-image: url(https://i2.wp.com/9to5google.com/wp-content/uploads/sites/4/2019/10/google_lens_hudson_yards_2.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
+								<p class="trending-excerpt">Google Lens lookups now include inline Search results, ‘copy to computer’ text shortcut</p>
+							</a>
+						</div>
+						<div title="OxygenOS Open Beta 13 rolls out for OnePlus 7/7 Pro w/ April 2020 patch, camera tweaks" class="trending-grid-item">
+							<a href="https://9to5google.com/2020/05/07/oxygenos-open-beta-13-oneplus-7-pro/" class="trending-item">
+								<div class="img-wrap" style="background-image: url(https://i1.wp.com/9to5google.com/wp-content/uploads/sites/4/2020/01/OnePlus-7-Pro-3.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
+								<p class="trending-excerpt">OxygenOS Open Beta 13 rolls out for OnePlus 7/7 Pro w/ April 2020 patch, camera tweaks</p>
+							</a>
+						</div>
+				</div>
+			</aside>
+
+
+		<article class="post-content" itemscope itemtype="http://schema.org/NewsArticle">
+				<div class="elastic-container">
+					<h1 class="post-title" itemprop="headline"><a href="https://9to5mac.com/2020/05/07/nhs-contact-tracing/" itemprop="mainEntityOfPage">Hands-on with UK&#8217;s NHS contact tracing app as the test goes live</a></h1>
+					<div class="post-meta">
+						<p class="byline" itemprop="author" itemscope itemtype="https://schema.org/Person">
+							<a href="https://9to5mac.com/author/benlovejoy/">
+								<span itemprop="name">Ben Lovejoy</span>
+							</a>
+						</p>
+						<p class="time-twitter">
+							- May. 7th 2020 5:36 am PT
+								<div class="icon-twitter"></div>
+								<p><a href="https://twitter.com/benlovejoy" target="_blank" class="twitter-handle">@benlovejoy</a></p>
+						</p>
+
+							<div class="tags">
+								<div class="post-cats">
+
+										<a href="https://9to5mac.com/guides/coronavirus/" title="View all posts in Coronavirus">Coronavirus</a>
+								</div><!-- .post-cats -->
+							</div><!-- .tags -->
+
+
+						<meta itemprop="keywords" content="Coronavirus,"/>
+						<meta itemprop="datePublished" content="2020-05-07 05:36:29"/>
+						<meta itemprop="dateModified" content="2020-05-07 05:36:29"/>
+					</div><!-- .post-meta -->
+				</div><!-- .elastic-container -->
+				<div class="feat-image-wrapper">
+						<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+							<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/NHS-contact-tracing-1.png?w=1500">
+							<meta itemprop="height" content="800">
+							<meta itemprop="width" content="1500">
+						</div>
+						<div class="feat-image wide">
+							<a href="https://9to5mac.com/2020/05/07/nhs-contact-tracing/">
+								<img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/NHS-contact-tracing-1.png?w=1500" srcset="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/NHS-contact-tracing-1.png?w=320&amp;quality=82&amp;strip=all&amp;ssl=1 320w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/NHS-contact-tracing-1.png?w=640&amp;quality=82&amp;strip=all&amp;ssl=1 640w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/NHS-contact-tracing-1.png?w=1024&amp;quality=82&amp;strip=all&amp;ssl=1 1024w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/NHS-contact-tracing-1.png?w=1500&amp;quality=82&amp;strip=all&amp;ssl=1 1500w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/NHS-contact-tracing-1.png?w=2000&amp;quality=82&amp;strip=all&amp;ssl=1 2000w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/NHS-contact-tracing-1.png?w=2500&amp;quality=82&amp;strip=all&amp;ssl=1 2500w" width="1500" height="800" loading="lazy">
+							</a>
+						</div><!-- .feat-image -->
+					<div class="post-social-mobile">
+						<a href="https://9to5mac.com/2020/05/07/nhs-contact-tracing/#comments" class="comments" itemprop="discussionUrl"><span class="dsq-postid" data-dsqidentifier="644402 https://9to5mac.com/?p=644402">0</span></a>
+						<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-text sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-644402" class="share-facebook sd-button no-icon" href="https://9to5mac.com/2020/05/07/nhs-contact-tracing/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-644402" class="share-twitter sd-button no-icon" href="https://9to5mac.com/2020/05/07/nhs-contact-tracing/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-644402" class="share-pinterest sd-button no-icon" href="https://9to5mac.com/2020/05/07/nhs-contact-tracing/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-644402" class="share-linkedin sd-button no-icon" href="https://9to5mac.com/2020/05/07/nhs-contact-tracing/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button no-icon" href="https://9to5mac.com/2020/05/07/nhs-contact-tracing/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li></ul></div></div></div>
+					</div><!-- .post-social-mobile -->
+				</div><!-- .feat-image-wrapper -->
+				<div class="elastic-container">
+
+					<div class="post-body" itemprop="articleBody">
+						<p>Britain&#8217;s standalone NHS contact tracing app has gone live on the Apple and Google app stores in order to allow real-life tests to be conducted.</p>
+<p>Anyone can download and run the app, but it will only accept positive <a href="https://9to5mac.com/guides/coronavirus/" target="_blank" rel="noopener noreferrer">coronavirus</a> diagnosis reports from those in the test area on the Isle of Wight, a small island off England&#8217;s southern coast &#8230;</p>
+<p> <a href="https://9to5mac.com/2020/05/07/nhs-contact-tracing/#more-644402" class="more-link"><span class="moretext" data-layer-pagetype="post" data-layer-postcategory="coronavirus">expand full story</span> <span class="x-animate"></span></a></p>
+
+					</div><!-- .post-body -->
+
+
+				</div><!-- .elastic-container -->
+
+				<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+					<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+						<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2018/10/cropped-cropped-9to5-mac-logo-min1.png">
+						<meta itemprop="width" content="350">
+						<meta itemprop="height" content="60">
+					</div>
+					<meta itemprop="name" content="9to5Mac">
+				</div>
+
+
+
+
+
+
+
+		</article><!-- .post-content -->
+
+	
+
+		<article class="post-content" itemscope itemtype="http://schema.org/NewsArticle">
+				<div class="elastic-container">
+					<h1 class="post-title" itemprop="headline"><a href="https://9to5mac.com/2020/05/07/wink/" itemprop="mainEntityOfPage">Wink accused of extortion as it says smart home products now need subscription</a></h1>
+					<div class="post-meta">
+						<p class="byline" itemprop="author" itemscope itemtype="https://schema.org/Person">
+							<a href="https://9to5mac.com/author/benlovejoy/">
+								<span itemprop="name">Ben Lovejoy</span>
+							</a>
+						</p>
+						<p class="time-twitter">
+							- May. 7th 2020 4:34 am PT
+								<div class="icon-twitter"></div>
+								<p><a href="https://twitter.com/benlovejoy" target="_blank" class="twitter-handle">@benlovejoy</a></p>
+						</p>
+
+							<div class="tags">
+								<div class="post-cats">
+
+										<a href="https://9to5mac.com/guides/wink/" title="View all posts in Wink">Wink</a>
+								</div><!-- .post-cats -->
+							</div><!-- .tags -->
+
+
+						<meta itemprop="keywords" content="Wink,"/>
+						<meta itemprop="datePublished" content="2020-05-07 04:34:30"/>
+						<meta itemprop="dateModified" content="2020-05-07 04:34:49"/>
+					</div><!-- .post-meta -->
+				</div><!-- .elastic-container -->
+				<div class="feat-image-wrapper">
+						<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+							<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Wink-accused-of-extortion-over-mandatory-subscription.jpg?quality=82&#038;strip=all&#038;w=1500">
+							<meta itemprop="height" content="750">
+							<meta itemprop="width" content="1500">
+						</div>
+						<div class="feat-image wide">
+							<a href="https://9to5mac.com/2020/05/07/wink/">
+								<img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/Wink-accused-of-extortion-over-mandatory-subscription.jpg?quality=82&#038;strip=all&#038;w=1500" srcset="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Wink-accused-of-extortion-over-mandatory-subscription.jpg?w=320&amp;quality=82&amp;strip=all&amp;ssl=1 320w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Wink-accused-of-extortion-over-mandatory-subscription.jpg?w=640&amp;quality=82&amp;strip=all&amp;ssl=1 640w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Wink-accused-of-extortion-over-mandatory-subscription.jpg?w=1024&amp;quality=82&amp;strip=all&amp;ssl=1 1024w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Wink-accused-of-extortion-over-mandatory-subscription.jpg?w=1500&amp;quality=82&amp;strip=all&amp;ssl=1 1500w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Wink-accused-of-extortion-over-mandatory-subscription.jpg?w=2000&amp;quality=82&amp;strip=all&amp;ssl=1 2000w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/Wink-accused-of-extortion-over-mandatory-subscription.jpg?w=2500&amp;quality=82&amp;strip=all&amp;ssl=1 2500w" width="1500" height="750" loading="lazy">
+							</a>
+						</div><!-- .feat-image -->
+					<div class="post-social-mobile">
+						<a href="https://9to5mac.com/2020/05/07/wink/#comments" class="comments" itemprop="discussionUrl"><span class="dsq-postid" data-dsqidentifier="644385 https://9to5mac.com/?p=644385">0</span></a>
+						<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-text sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-644385" class="share-facebook sd-button no-icon" href="https://9to5mac.com/2020/05/07/wink/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-644385" class="share-twitter sd-button no-icon" href="https://9to5mac.com/2020/05/07/wink/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-644385" class="share-pinterest sd-button no-icon" href="https://9to5mac.com/2020/05/07/wink/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-644385" class="share-linkedin sd-button no-icon" href="https://9to5mac.com/2020/05/07/wink/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button no-icon" href="https://9to5mac.com/2020/05/07/wink/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li></ul></div></div></div>
+					</div><!-- .post-social-mobile -->
+				</div><!-- .feat-image-wrapper -->
+				<div class="elastic-container">
+
+					<div class="post-body" itemprop="articleBody">
+						<p>Smart home company Wink has been accused of extortion by customers furious at an announcement that they will be forced to pay a monthly subscription else their existing products will cease to function.</p>
+<p>Wink says any customers who don&#8217;t pay the $4.99/month subscription will no longer be able to access devices via the app, voice or API, and that automations will no longer work &#8230;</p>
+<p> <a href="https://9to5mac.com/2020/05/07/wink/#more-644385" class="more-link"><span class="moretext" data-layer-pagetype="post" data-layer-postcategory="wink">expand full story</span> <span class="x-animate"></span></a></p>
+
+					</div><!-- .post-body -->
+
+
+				</div><!-- .elastic-container -->
+
+				<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+					<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+						<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2018/10/cropped-cropped-9to5-mac-logo-min1.png">
+						<meta itemprop="width" content="350">
+						<meta itemprop="height" content="60">
+					</div>
+					<meta itemprop="name" content="9to5Mac">
+				</div>
+
+
+
+
+
+
+				<div id="div-gpt-ad-1437016474156-0-644385" class="inlinead"></div>
+
+		</article><!-- .post-content -->
+
+	
+
+		<article class="post-content" itemscope itemtype="http://schema.org/NewsArticle">
+				<div class="elastic-container">
+					<h1 class="post-title" itemprop="headline"><a href="https://9to5mac.com/2020/05/07/apple-invests-10-million-in-a-covid-19-sample-collection-kit-manufacturer/" itemprop="mainEntityOfPage">Apple invests $10 million in a COVID-19 sample collection kit manufacturer</a></h1>
+					<div class="post-meta">
+						<p class="byline" itemprop="author" itemscope itemtype="https://schema.org/Person">
+							<a href="https://9to5mac.com/author/benjaminmayo/">
+								<span itemprop="name">Benjamin Mayo</span>
+							</a>
+						</p>
+						<p class="time-twitter">
+							- May. 7th 2020 4:17 am PT
+								<div class="icon-twitter"></div>
+								<p><a href="https://twitter.com/bzamayo" target="_blank" class="twitter-handle">@bzamayo</a></p>
+						</p>
+
+							<div class="tags">
+								<div class="post-cats">
+
+										<a href="https://9to5mac.com/category/apple/" title="View all posts in Apple">Apple</a>
+								</div><!-- .post-cats -->
+							</div><!-- .tags -->
+
+
+						<meta itemprop="keywords" content="Apple,"/>
+						<meta itemprop="datePublished" content="2020-05-07 04:17:53"/>
+						<meta itemprop="dateModified" content="2020-05-07 04:32:07"/>
+					</div><!-- .post-meta -->
+				</div><!-- .elastic-container -->
+				<div class="feat-image-wrapper">
+						<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+							<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/apple-covid-19-kits.jpg?quality=82&#038;strip=all&#038;w=1600">
+							<meta itemprop="height" content="800">
+							<meta itemprop="width" content="1600">
+						</div>
+						<div class="feat-image wide">
+							<a href="https://9to5mac.com/2020/05/07/apple-invests-10-million-in-a-covid-19-sample-collection-kit-manufacturer/">
+								<img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/05/apple-covid-19-kits.jpg?quality=82&#038;strip=all&#038;w=1600" srcset="https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/apple-covid-19-kits.jpg?w=320&amp;quality=82&amp;strip=all&amp;ssl=1 320w, https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/apple-covid-19-kits.jpg?w=640&amp;quality=82&amp;strip=all&amp;ssl=1 640w, https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/apple-covid-19-kits.jpg?w=1024&amp;quality=82&amp;strip=all&amp;ssl=1 1024w, https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/apple-covid-19-kits.jpg?w=1500&amp;quality=82&amp;strip=all&amp;ssl=1 1500w, https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/apple-covid-19-kits.jpg?w=2000&amp;quality=82&amp;strip=all&amp;ssl=1 2000w, https://i2.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/05/apple-covid-19-kits.jpg?w=2500&amp;quality=82&amp;strip=all&amp;ssl=1 2500w" width="1600" height="800" loading="lazy">
+							</a>
+						</div><!-- .feat-image -->
+					<div class="post-social-mobile">
+						<a href="https://9to5mac.com/2020/05/07/apple-invests-10-million-in-a-covid-19-sample-collection-kit-manufacturer/#comments" class="comments" itemprop="discussionUrl"><span class="dsq-postid" data-dsqidentifier="644387 https://9to5mac.com/?p=644387">0</span></a>
+						<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-text sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-644387" class="share-facebook sd-button no-icon" href="https://9to5mac.com/2020/05/07/apple-invests-10-million-in-a-covid-19-sample-collection-kit-manufacturer/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-644387" class="share-twitter sd-button no-icon" href="https://9to5mac.com/2020/05/07/apple-invests-10-million-in-a-covid-19-sample-collection-kit-manufacturer/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-644387" class="share-pinterest sd-button no-icon" href="https://9to5mac.com/2020/05/07/apple-invests-10-million-in-a-covid-19-sample-collection-kit-manufacturer/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-644387" class="share-linkedin sd-button no-icon" href="https://9to5mac.com/2020/05/07/apple-invests-10-million-in-a-covid-19-sample-collection-kit-manufacturer/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button no-icon" href="https://9to5mac.com/2020/05/07/apple-invests-10-million-in-a-covid-19-sample-collection-kit-manufacturer/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li></ul></div></div></div>
+					</div><!-- .post-social-mobile -->
+				</div><!-- .feat-image-wrapper -->
+				<div class="elastic-container">
+
+					<div class="post-body" itemprop="articleBody">
+						<p>Apple announced today that it has invested $10 million to COPAN Diagnostics, as part of its Advanced Manufacturing Fund for US businesses. COPAN Diagonistics is a manufacturer of collection kits for coronavirus samples. The investment will help the company grow production levels to more than one million kits per week.</p>
+<p>In the past, Apple has used the Advanced Manufacturing Fund to invest in companies directly related to its supply chain, like Corning glass, or Finisar — the VCSEL laser manufacturer whose components form part of the Face ID TrueDepth camera system.</p>
+<p> <a href="https://9to5mac.com/2020/05/07/apple-invests-10-million-in-a-covid-19-sample-collection-kit-manufacturer/#more-644387" class="more-link"><span class="moretext" data-layer-pagetype="post" data-layer-postcategory="">expand full story</span> <span class="x-animate"></span></a></p>
+
+					</div><!-- .post-body -->
+
+
+				</div><!-- .elastic-container -->
+
+				<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+					<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+						<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2018/10/cropped-cropped-9to5-mac-logo-min1.png">
+						<meta itemprop="width" content="350">
+						<meta itemprop="height" content="60">
+					</div>
+					<meta itemprop="name" content="9to5Mac">
+				</div>
+
+
+
+
+
 
 
 		</article><!-- .post-content -->
@@ -982,316 +1253,34 @@ body.darkmode--activated {
 			<aside class="trending-wrapper">
 				<div class="trending-items trending-items--cross-site trending-items--toys">
 					
-						<div title="Fresh Apple Watch Series 5 deals bring Nike+ models down to new lows from $299" class="trending-grid-item">
-							<a href="https://9to5toys.com/2020/05/01/nike-apple-watch-series-5-offers/" class="trending-item">
-								<div class="img-wrap" style="background-image: url(https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2020/04/apple-watch-series-5.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
-								<p class="trending-excerpt">Fresh Apple Watch Series 5 deals bring Nike+ models down to new lows from $299</p>
+						<div title="Verizon Mother’s Day promo offers BOGO FREE iPhone, Android, more" class="trending-grid-item">
+							<a href="https://9to5toys.com/2020/05/07/verizon-bogo-mothers-day/" class="trending-item">
+								<div class="img-wrap" style="background-image: url(https://i1.wp.com/9to5toys.com/wp-content/uploads/sites/5/2019/12/iphone-11-colors.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
+								<p class="trending-excerpt">Verizon Mother’s Day promo offers BOGO FREE iPhone, Android, more</p>
 							</a>
 						</div>
-						<div title="Mac mini discounted by $200 as previous-gen. inventory is cleared out" class="trending-grid-item">
-							<a href="https://9to5toys.com/2020/05/01/mac-mini-bh-deals-2/" class="trending-item">
-								<div class="img-wrap" style="background-image: url(https://i2.wp.com/9to5toys.com/wp-content/uploads/sites/5/2019/09/2018-mac-mini.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
-								<p class="trending-excerpt">Mac mini discounted by $200 as previous-gen. inventory is cleared out</p>
+						<div title="Take $300 off Apple’s 16-inch MacBook Pro as Amazon all-time lows return" class="trending-grid-item">
+							<a href="https://9to5toys.com/2020/05/07/16-inch-macbook-pro-amazon-low/" class="trending-item">
+								<div class="img-wrap" style="background-image: url(https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2019/11/16-inch-MacBook-Pro-2019-1.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
+								<p class="trending-excerpt">Take $300 off Apple’s 16-inch MacBook Pro as Amazon all-time lows return</p>
 							</a>
 						</div>
-						<div title="Powerbeats Pro and Solo Pro Wireless Headphone deals from $189 (Reg. up to $300)" class="trending-grid-item">
-							<a href="https://9to5toys.com/2020/04/30/powerbeats-pro-solo-deals/" class="trending-item">
-								<div class="img-wrap" style="background-image: url(https://i1.wp.com/9to5toys.com/wp-content/uploads/sites/5/2019/09/Powerbeats-Pro.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
-								<p class="trending-excerpt">Powerbeats Pro and Solo Pro Wireless Headphone deals from $189 (Reg. up to $300)</p>
+						<div title="Apple’s new 13-inch MacBook Air 512GB hits Amazon all-time low at $1,199" class="trending-grid-item">
+							<a href="https://9to5toys.com/2020/05/06/2020-macbook-air-deal/" class="trending-item">
+								<div class="img-wrap" style="background-image: url(https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2020/05/MacBook-Air-2020-Review-Games.jpeg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
+								<p class="trending-excerpt">Apple’s new 13-inch MacBook Air 512GB hits Amazon all-time low at $1,199</p>
 							</a>
 						</div>
-						<div title="Best iPhone SE deals: Free with trade-in, $50 gift card, more" class="trending-grid-item">
-							<a href="https://9to5toys.com/2020/04/30/best-iphone-se-pre-order-deals/" class="trending-item">
-								<div class="img-wrap" style="background-image: url(https://i2.wp.com/9to5toys.com/wp-content/uploads/sites/5/2020/04/iphone-se-pre-order-deals.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
-								<p class="trending-excerpt">Best iPhone SE deals: Free with trade-in, $50 gift card, more</p>
+						<div title="Apple’s new TV show sale starts at $5: The Wire, Veep, Empire, Barry, more" class="trending-grid-item">
+							<a href="https://9to5toys.com/2020/05/06/apple-tv-show-sale-wire-veep-more/" class="trending-item">
+								<div class="img-wrap" style="background-image: url(https://i1.wp.com/9to5toys.com/wp-content/uploads/sites/5/2020/05/the-wire.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
+								<p class="trending-excerpt">Apple’s new TV show sale starts at $5: The Wire, Veep, Empire, Barry, more</p>
 							</a>
 						</div>
-						<div title="Apple’s 61W USB-C Power Adapter drops to $57 at Amazon (Reg. $69)" class="trending-grid-item">
-							<a href="https://9to5toys.com/2020/04/29/apple-61w-usb-c-power-adapter/" class="trending-item">
-								<div class="img-wrap" style="background-image: url(https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2020/04/Apple-61W-USB-C-Power-Adapter.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
-								<p class="trending-excerpt">Apple’s 61W USB-C Power Adapter drops to $57 at Amazon (Reg. $69)</p>
-							</a>
-						</div>
-				</div>
-			</aside>
-
-			<div class="news-feed-header">
-				<div class="elastic-container">
-					<div class="currently-reading">
-						<p>Yesterday</p>
-					</div><!-- .currently-reading -->
-
-
-				</div><!-- .elastic-container -->
-			</div><!-- .news-feed-header -->
-			<div id="news-placeholder"></div>
-
-		<article class="post-content" itemscope itemtype="http://schema.org/NewsArticle">
-				<div class="elastic-container">
-					<h1 class="post-title" itemprop="headline"><a href="https://9to5mac.com/2020/04/30/apple-says-it-expects-iphone-and-wearables-revenue-to-drop-in-q3-mac-and-ipad-to-grow/" itemprop="mainEntityOfPage">Apple says it expects iPhone and Wearables revenue to drop in Q3, Mac and iPad to grow</a></h1>
-					<div class="post-meta">
-						<p class="byline" itemprop="author" itemscope itemtype="https://schema.org/Person">
-							<a href="https://9to5mac.com/author/chmiller44/">
-								<span itemprop="name">Chance Miller</span>
-							</a>
-						</p>
-						<p class="time-twitter">
-							- Apr. 30th 2020 6:14 pm PT
-								<div class="icon-twitter"></div>
-								<p><a href="https://twitter.com/ChanceHMiller" target="_blank" class="twitter-handle">@ChanceHMiller</a></p>
-						</p>
-
-							<div class="tags">
-								<div class="post-cats">
-
-										<a href="https://9to5mac.com/guides/aapl/" title="View all posts in AAPL Company">AAPL Company</a>
-								</div><!-- .post-cats -->
-							</div><!-- .tags -->
-
-
-						<meta itemprop="keywords" content="AAPL Company,"/>
-						<meta itemprop="datePublished" content="2020-04-30 18:14:39"/>
-						<meta itemprop="dateModified" content="2020-04-30 18:14:39"/>
-					</div><!-- .post-meta -->
-				</div><!-- .elastic-container -->
-				<div class="feat-image-wrapper">
-						<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-							<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2020/04/Magic-Keyboard-for-iPad-Pro-small-trackpad.jpeg?quality=82&#038;strip=all&#038;w=1600">
-							<meta itemprop="height" content="800">
-							<meta itemprop="width" content="1600">
-						</div>
-						<div class="feat-image wide">
-							<a href="https://9to5mac.com/2020/04/30/apple-says-it-expects-iphone-and-wearables-revenue-to-drop-in-q3-mac-and-ipad-to-grow/">
-								<img src="https://9to5mac.com/wp-content/uploads/sites/6/2020/04/Magic-Keyboard-for-iPad-Pro-small-trackpad.jpeg?quality=82&#038;strip=all&#038;w=1600" srcset="https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/04/Magic-Keyboard-for-iPad-Pro-small-trackpad.jpeg?w=320&amp;quality=82&amp;strip=all&amp;ssl=1 320w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/04/Magic-Keyboard-for-iPad-Pro-small-trackpad.jpeg?w=640&amp;quality=82&amp;strip=all&amp;ssl=1 640w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/04/Magic-Keyboard-for-iPad-Pro-small-trackpad.jpeg?w=1024&amp;quality=82&amp;strip=all&amp;ssl=1 1024w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/04/Magic-Keyboard-for-iPad-Pro-small-trackpad.jpeg?w=1500&amp;quality=82&amp;strip=all&amp;ssl=1 1500w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/04/Magic-Keyboard-for-iPad-Pro-small-trackpad.jpeg?w=2000&amp;quality=82&amp;strip=all&amp;ssl=1 2000w, https://i1.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/04/Magic-Keyboard-for-iPad-Pro-small-trackpad.jpeg?w=2500&amp;quality=82&amp;strip=all&amp;ssl=1 2500w" width="1600" height="800" loading="lazy">
-							</a>
-						</div><!-- .feat-image -->
-					<div class="post-social-mobile">
-						<a href="https://9to5mac.com/2020/04/30/apple-says-it-expects-iphone-and-wearables-revenue-to-drop-in-q3-mac-and-ipad-to-grow/#comments" class="comments" itemprop="discussionUrl"><span class="dsq-postid" data-dsqidentifier="643607 https://9to5mac.com/?p=643607">0</span></a>
-						<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-text sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-643607" class="share-facebook sd-button no-icon" href="https://9to5mac.com/2020/04/30/apple-says-it-expects-iphone-and-wearables-revenue-to-drop-in-q3-mac-and-ipad-to-grow/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-643607" class="share-twitter sd-button no-icon" href="https://9to5mac.com/2020/04/30/apple-says-it-expects-iphone-and-wearables-revenue-to-drop-in-q3-mac-and-ipad-to-grow/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-643607" class="share-pinterest sd-button no-icon" href="https://9to5mac.com/2020/04/30/apple-says-it-expects-iphone-and-wearables-revenue-to-drop-in-q3-mac-and-ipad-to-grow/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-643607" class="share-linkedin sd-button no-icon" href="https://9to5mac.com/2020/04/30/apple-says-it-expects-iphone-and-wearables-revenue-to-drop-in-q3-mac-and-ipad-to-grow/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button no-icon" href="https://9to5mac.com/2020/04/30/apple-says-it-expects-iphone-and-wearables-revenue-to-drop-in-q3-mac-and-ipad-to-grow/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li></ul></div></div></div>
-					</div><!-- .post-social-mobile -->
-				</div><!-- .feat-image-wrapper -->
-				<div class="elastic-container">
-
-					<div class="post-body" itemprop="articleBody">
-						<p>After withdrawing its guidance for its fiscal Q2 2020, Apple is not providing traditional guidance to investors for fiscal Q3 2020. According to CFO Luca Maestri, there is simply too much uncertainty to provide any useful data for investors.</p>
-<p> <a href="https://9to5mac.com/2020/04/30/apple-says-it-expects-iphone-and-wearables-revenue-to-drop-in-q3-mac-and-ipad-to-grow/#more-643607" class="more-link"><span class="moretext" data-layer-pagetype="post" data-layer-postcategory="aapl">expand full story</span> <span class="x-animate"></span></a></p>
-
-					</div><!-- .post-body -->
-
-
-				</div><!-- .elastic-container -->
-
-				<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-					<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-						<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2018/10/cropped-cropped-9to5-mac-logo-min1.png">
-						<meta itemprop="width" content="350">
-						<meta itemprop="height" content="60">
-					</div>
-					<meta itemprop="name" content="9to5Mac">
-				</div>
-
-
-
-
-
-
-				<div id="div-gpt-ad-1437016474156-0-643607" class="inlinead"></div>
-
-		</article><!-- .post-content -->
-
-	
-
-		<article class="post-content" itemscope itemtype="http://schema.org/NewsArticle">
-				<div class="elastic-container">
-					<h1 class="post-title" itemprop="headline"><a href="https://9to5mac.com/2020/04/30/tim-cook-new-apple-products/" itemprop="mainEntityOfPage">Tim Cook: Apple continuing new product development with &#8216;best pipeline ever&#8217;</a></h1>
-					<div class="post-meta">
-						<p class="byline" itemprop="author" itemscope itemtype="https://schema.org/Person">
-							<a href="https://9to5mac.com/author/chmiller44/">
-								<span itemprop="name">Chance Miller</span>
-							</a>
-						</p>
-						<p class="time-twitter">
-							- Apr. 30th 2020 4:59 pm PT
-								<div class="icon-twitter"></div>
-								<p><a href="https://twitter.com/ChanceHMiller" target="_blank" class="twitter-handle">@ChanceHMiller</a></p>
-						</p>
-
-							<div class="tags">
-								<div class="post-cats">
-
-										<a href="https://9to5mac.com/guides/aapl/" title="View all posts in AAPL Company">AAPL Company</a>
-								</div><!-- .post-cats -->
-							</div><!-- .tags -->
-
-
-						<meta itemprop="keywords" content="AAPL Company,"/>
-						<meta itemprop="datePublished" content="2020-04-30 16:59:38"/>
-						<meta itemprop="dateModified" content="2020-04-30 16:59:38"/>
-					</div><!-- .post-meta -->
-				</div><!-- .elastic-container -->
-				<div class="feat-image-wrapper">
-						<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-							<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2017/04/tim-cook-auburn.jpg?quality=82&#038;strip=all&#038;w=1600">
-							<meta itemprop="height" content="806">
-							<meta itemprop="width" content="1600">
-						</div>
-						<div class="feat-image wide">
-							<a href="https://9to5mac.com/2020/04/30/tim-cook-new-apple-products/">
-								<img src="https://9to5mac.com/wp-content/uploads/sites/6/2017/04/tim-cook-auburn.jpg?quality=82&#038;strip=all&#038;w=1600" srcset="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/04/tim-cook-auburn.jpg?w=320&amp;quality=82&amp;strip=all&amp;ssl=1 320w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/04/tim-cook-auburn.jpg?w=640&amp;quality=82&amp;strip=all&amp;ssl=1 640w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/04/tim-cook-auburn.jpg?w=1024&amp;quality=82&amp;strip=all&amp;ssl=1 1024w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/04/tim-cook-auburn.jpg?w=1500&amp;quality=82&amp;strip=all&amp;ssl=1 1500w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/04/tim-cook-auburn.jpg?w=2000&amp;quality=82&amp;strip=all&amp;ssl=1 2000w, https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2017/04/tim-cook-auburn.jpg?w=2500&amp;quality=82&amp;strip=all&amp;ssl=1 2500w" width="1600" height="806" loading="lazy">
-							</a>
-						</div><!-- .feat-image -->
-					<div class="post-social-mobile">
-						<a href="https://9to5mac.com/2020/04/30/tim-cook-new-apple-products/#comments" class="comments" itemprop="discussionUrl"><span class="dsq-postid" data-dsqidentifier="643599 https://9to5mac.com/?p=643599">0</span></a>
-						<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-text sd-sharing"><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-643599" class="share-facebook sd-button no-icon" href="https://9to5mac.com/2020/04/30/tim-cook-new-apple-products/?share=facebook" target="_blank" title="Click to share on Facebook"><span>Facebook</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-643599" class="share-twitter sd-button no-icon" href="https://9to5mac.com/2020/04/30/tim-cook-new-apple-products/?share=twitter" target="_blank" title="Click to share on Twitter"><span>Twitter</span></a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer" data-shared="sharing-pinterest-643599" class="share-pinterest sd-button no-icon" href="https://9to5mac.com/2020/04/30/tim-cook-new-apple-products/?share=pinterest" target="_blank" title="Click to share on Pinterest"><span>Pinterest</span></a></li><li class="share-linkedin"><a rel="nofollow noopener noreferrer" data-shared="sharing-linkedin-643599" class="share-linkedin sd-button no-icon" href="https://9to5mac.com/2020/04/30/tim-cook-new-apple-products/?share=linkedin" target="_blank" title="Click to share on LinkedIn"><span>LinkedIn</span></a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer" data-shared="" class="share-reddit sd-button no-icon" href="https://9to5mac.com/2020/04/30/tim-cook-new-apple-products/?share=reddit" target="_blank" title="Click to share on Reddit"><span>Reddit</span></a></li><li class="share-end"></li></ul></div></div></div>
-					</div><!-- .post-social-mobile -->
-				</div><!-- .feat-image-wrapper -->
-				<div class="elastic-container">
-
-					<div class="post-body" itemprop="articleBody">
-						<p>As you would expect, Apple CEO Tim Cook emphasized during the company’s Q2 2020 that new product development is continuing <a href="https://9to5mac.com/2020/04/30/aapl-q2-2020-earnings/">despite the COVID-19 pandemic</a>. According to Cook, Apple entered 2020 with “our best product pipeline ever.”</p>
-<p> <a href="https://9to5mac.com/2020/04/30/tim-cook-new-apple-products/#more-643599" class="more-link"><span class="moretext" data-layer-pagetype="post" data-layer-postcategory="aapl">expand full story</span> <span class="x-animate"></span></a></p>
-
-					</div><!-- .post-body -->
-
-
-				</div><!-- .elastic-container -->
-
-				<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-					<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-						<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2018/10/cropped-cropped-9to5-mac-logo-min1.png">
-						<meta itemprop="width" content="350">
-						<meta itemprop="height" content="60">
-					</div>
-					<meta itemprop="name" content="9to5Mac">
-				</div>
-
-
-
-
-
-
-
-		</article><!-- .post-content -->
-
-	
-
-		<article class="post-content aside" itemscope itemtype="http://schema.org/NewsArticle">
-
-				<div class="aside-posts">
-					<div class="individual-aside">
-						<div class="elastic-container">
-							<div class="aside-row">
-									<div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-										<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2020/04/1480x800sr-90-5.jpg?quality=82&#038;strip=all&#038;w=1480">
-										<meta itemprop="height" content="800">
-										<meta itemprop="width" content="1480">
-									</div>
-									<a class="more-article aside-img img-wrap"
-									   href="https://9to5mac.com/2020/04/30/apple-pay-mothers-day-promotion/"
-									   style="background-image: url( https://9to5mac.com/wp-content/uploads/sites/6/2020/04/1480x800sr-90-5.jpg?quality=82&#038;strip=all&#038;w=1480 );">
-									</a>
-								<div class="aside-title">
-									<a class="more-article" href="https://9to5mac.com/2020/04/30/apple-pay-mothers-day-promotion/" itemprop="mainEntityOfPage">
-										<p class="aside-title-p" itemprop="headline">Apple celebrates Mother&#8217;s Day with new Apple Pay promotion for 1-800-Flowers</p>
-									</a>
-
-									<meta itemprop="datePublished" content="2020-04-30 16:36:18"/>
-									<meta itemprop="dateModified" content="2020-04-30 16:36:18"/>
-									<p class="aside-post-meta">
-										<a href="https://9to5mac.com/author/chmiller44/" itemprop="author" itemscope itemtype="https://schema.org/Person" class="distributed-from-">
-											<span itemprop="name">Chance Miller</span>
-										</a> -
-										Apr. 30th 2020 4:36 pm PT
-									</p>
-									<div class="aside-excerpt" >
-									<p>Apple has announced its latest Apple Pay promo, this time in celebration of Mother&#8217;s Day. When you check out with Apple Pay, you can get $10 off a purchase from 1-800-Flowers.</p>
-
-									</div>
-
-										<div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-											<div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-												<meta itemprop="url" content="https://9to5mac.com/wp-content/uploads/sites/6/2018/10/cropped-cropped-9to5-mac-logo-min1.png">
-												<meta itemprop="width" content="350">
-												<meta itemprop="height" content="60">
-											</div>
-											<meta itemprop="name" content="9to5Mac">
-										</div>
-
-								</div>
-								<a class="more-article more-article-expand" href="https://9to5mac.com/2020/04/30/apple-pay-mothers-day-promotion/">
-									<div class="expand">
-										<p><span class="x-animate"></span></p>
-									</div><!-- .expand -->
-								</a>
-							</div><!-- .related-row -->
-							<div class="aside-post"></div>
-						</div><!-- .elastic-container -->
-					</div>
-				</div><!-- .aside-posts -->
-
-
-		</article><!-- .post-content -->
-
-	
-			<div class="feed-title-bar ninetofive-toys">
-				<div class="elastic-container">
-					<div class="currently-reading">
-						<a class="currently-reading__link" href="https://9to5toys.com/" target="blank">9to5Toys&nbsp;</a>
-
-						<span class="social-icons">
-								<a href="http://www.facebook.com/pages/9to5toyscom/228249133858390" class="icon-facebook"></a>
-
-								<a href="https://twitter.com/9to5toys" class="icon-twitter"></a>
-
-								<a href="https://www.youtube.com/9to5toys?sub_confirmation=1" class="icon-youtube"></a>
-
-								<a href="https://itunes.apple.com/us/podcast/9to5toys-daily-9to5toys/id1404999371" class="social-icon-svg social-icon-podcast">
-									<svg class="ninetofive-icon podcast" aria-hidden="true">
-										<use xlink:href="/wp-content/themes/9to5-2015/images/svg-sprite-1.svg#ninetofive-icon-podcast"></use>
-									</svg>
-								</a>
-
-								<a href="https://9to5toys.com/9to5toys-newsletter-signup/" class="social-icon-svg social-icon-newsletter">
-									<svg class="ninetofive-icon email " aria-hidden="true">
-										<use xlink:href="/wp-content/themes/9to5-2015/images/svg-sprite-1.svg#ninetofive-icon-email"></use>
-									</svg>
-								</a>
-						</span>
-					</div>
-				</div>
-			</div>
-
-			<aside class="trending-wrapper">
-				<div class="trending-items trending-items--cross-site trending-items--toys">
-					
-						<div title="Marshall’s high-end Tufton Portable Speaker returns to a low of $300 (25% off)" class="trending-grid-item">
-							<a href="https://9to5toys.com/2020/05/01/marshall-tufton-speaker/" class="trending-item">
-								<div class="img-wrap" style="background-image: url(https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2020/05/Marshall-Tufton-Speaker.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
-								<p class="trending-excerpt">Marshall’s high-end Tufton Portable Speaker returns to a low of $300 (25% off)</p>
-							</a>
-						</div>
-						<div title="DEWALT drill and driver kits are $100, today only (Reg. $150+)" class="trending-grid-item">
-							<a href="https://9to5toys.com/2020/05/01/dewalt-drill-driver-kits/" class="trending-item">
-								<div class="img-wrap" style="background-image: url(https://i1.wp.com/9to5toys.com/wp-content/uploads/sites/5/2020/05/dewalt-drill-driver-kit.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
-								<p class="trending-excerpt">DEWALT drill and driver kits are $100, today only (Reg. $150+)</p>
-							</a>
-						</div>
-						<div title="Hover-1 Rally Electric Scooter returns to all-time low at $180 ($50 off)" class="trending-grid-item">
-							<a href="https://9to5toys.com/2020/05/01/hover-1-rally-scooter/" class="trending-item">
-								<div class="img-wrap" style="background-image: url(https://i2.wp.com/9to5toys.com/wp-content/uploads/sites/5/2020/05/hover-1-electric-scooter.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
-								<p class="trending-excerpt">Hover-1 Rally Electric Scooter returns to all-time low at $180 ($50 off)</p>
-							</a>
-						</div>
-						<div title="Fresh Apple Watch Series 5 deals bring Nike+ models down to new lows from $299" class="trending-grid-item">
-							<a href="https://9to5toys.com/2020/05/01/nike-apple-watch-series-5-offers/" class="trending-item">
-								<div class="img-wrap" style="background-image: url(https://i0.wp.com/9to5toys.com/wp-content/uploads/sites/5/2020/04/apple-watch-series-5.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
-								<p class="trending-excerpt">Fresh Apple Watch Series 5 deals bring Nike+ models down to new lows from $299</p>
-							</a>
-						</div>
-						<div title="Mac mini discounted by $200 as previous-gen. inventory is cleared out" class="trending-grid-item">
-							<a href="https://9to5toys.com/2020/05/01/mac-mini-bh-deals-2/" class="trending-item">
-								<div class="img-wrap" style="background-image: url(https://i2.wp.com/9to5toys.com/wp-content/uploads/sites/5/2019/09/2018-mac-mini.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
-								<p class="trending-excerpt">Mac mini discounted by $200 as previous-gen. inventory is cleared out</p>
+						<div title="Apple AirPods Pro sport ANC, Hey Siri, and more at $224" class="trending-grid-item">
+							<a href="https://9to5toys.com/2020/05/05/apple-airpods-pro-att/" class="trending-item">
+								<div class="img-wrap" style="background-image: url(https://i1.wp.com/9to5toys.com/wp-content/uploads/sites/5/2019/11/apple-airpods-pro-costco.jpg?resize=600%2C300&amp;quality=82&amp;strip=all&amp;ssl=1);"></div>
+								<p class="trending-excerpt">Apple AirPods Pro sport ANC, Hey Siri, and more at $224</p>
 							</a>
 						</div>
 				</div>
@@ -1305,7 +1294,7 @@ body.darkmode--activated {
 
 		<script type="text/javascript">
 		//<![CDATA[
-		var ninetofiveInfiniteScroll = {"settings":{"id":"content","ajaxurl":"https:\/\/9to5mac.com\/?infinity=scrolling","currentday":"30.04.20","order":"DESC","offset":0,"history":{"host":"9to5mac.com","path":"\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"update_post_meta_cache":false,"update_post_term_cache":false,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"lazy_load_term_meta":false,"post_type":"","posts_per_page":6,"nopaging":false,"comments_per_page":"75","no_found_rows":false,"order":"DESC"},"last_post_date":"2020-04-30 16:36:18","dfp_id":"1049447","stats":"blog=146091842&host=9to5mac.com&v=ext&j=1:8.4.2&x_pagetype=infinite-jetpack","google_analytics":false}};
+		var ninetofiveInfiniteScroll = {"settings":{"id":"content","ajaxurl":"https:\/\/9to5mac.com\/?infinity=scrolling","currentday":"07.05.20","order":"DESC","offset":0,"history":{"host":"9to5mac.com","path":"\/page\/%d\/","use_trailing_slashes":true,"parameters":""},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"update_post_meta_cache":false,"update_post_term_cache":false,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"lazy_load_term_meta":false,"post_type":"","posts_per_page":6,"nopaging":false,"comments_per_page":"75","no_found_rows":false,"order":"DESC"},"last_post_date":"2020-05-07 04:17:53","dfp_id":"1049447","stats":"blog=146091842&host=9to5mac.com&v=ext&j=1:8.4.2&x_pagetype=infinite-jetpack","google_analytics":false}};
 		//]]>
 	</script>
 		<script async src="https://cdn.9to5terminal.com/push.js"></script>
@@ -1770,7 +1759,7 @@ body.darkmode--activated {
 
 		const darkmode = new Darkmode(options);
 	</script>
-<link rel='stylesheet' id='all-css-0' href='https://9to5mac.com/wp-content/mu-plugins/jetpack/modules/tiled-gallery/tiled-gallery/tiled-gallery.css?m=1563814054g' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-0' href='https://9to5mac.com/wp-content/mu-plugins/jetpack/modules/tiled-gallery/tiled-gallery/tiled-gallery.css?m=1563814046g' type='text/css' media='all' />
 <script>
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
 </script>
@@ -1788,7 +1777,7 @@ var stylesheetDirectory = "https:\/\/9to5mac.com\/wp-content\/themes\/9to5-2015"
 </script>
 <script type='text/javascript' src='https://9to5mac.com/_static/??-eJyVjksOwjAMBS9EMAWVzwJxFFRSA64SO8Q2SJyeIsQKFrB7i5nRg1sJUdiQDeyMGRU2Jm2Yz5oWOlU0hUEhS4+V6V6DuBW36aAT+E1lYjQ50hWnmfgPkfhITIZBY5WUQql4oP5bpCQ/ESv0pBdXKH5IFJ+JKDmPwD6K88fnt1Vcz16e+Gv9eTN2VVwxha7XUdvlbdOuV8tVs54thgedl36P'></script>
 <script src='//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?ver=1.0.46'></script>
-<script type='text/javascript' src='https://9to5mac.com/_static/??-eJyNy1ESQCAQANALyQqhD+MsaFGmMu1i3N6PA3j/D+5DzDEwBgbe0COB5qhEWUgFIxEygSNYcOQzoRFrsib3NuSOMvh3LwwmJiC28/5Mlun7g++laquubrpSuxcPmC+C'></script>
+<script type='text/javascript' src='https://9to5mac.com/_static/??-eJyNy1ESQCAQANALyZZRw4dxFmpRpjLtYtzejwN4/w/uQ9icGBMDbxiRoOesRSOVhokImSAQLDjxWdCJtXhXR5/qQBX8uxcmlwsQe7s/s2f6/hgHpY3qO2l0G14Pdy96'></script>
 <script>
 var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
 </script>
@@ -2039,7 +2028,7 @@ var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File",
 					sizes: [[300,250],[970,90],[970,250],[728,90]]				} );
 			} );
 
-			$author_ads = jQuery( '#content' ).find( '.st904b65cc:empty' );
+			$author_ads = jQuery( '#content' ).find( '.th137ec281:empty' );
 
 			$author_ads.each( function() {
 				var slotName = generateNextSlotName(),
@@ -2098,7 +2087,7 @@ var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File",
 				adUnits = [];
 			$forum_wrapper = jQuery( '.forum_wrapper' );
 
-			$banner = $forum_wrapper.find( ".st05ad23eb" );
+			$banner = $forum_wrapper.find( ".th2fb0a844" );
 
 			$banner.each( function() {
 				var slotName = "gpt-ad-banner-forum",
@@ -2130,7 +2119,7 @@ var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File",
 					sizes: [[728,90],[468,60],[320,50],[320,100]]				} );
 			} );
 			
-			$sidebar = $forum_wrapper.find( ".st83fcbf97" );
+			$sidebar = $forum_wrapper.find( ".tha28a238f" );
 
 			$sidebar.each( function() {
 				var slotName = "gpt-ad-sidebar-forum",
@@ -2167,7 +2156,7 @@ var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File",
 			fetchHeaderBids( apstagSlots, adUnits );
 		}
 		</script>
-<script type='text/javascript' src='https://stats.wp.com/e-202018.js' async='async' defer='defer'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202019.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:8.4.2',blog:'146091842',post:'0',tz:'-7',srv:'9to5mac.com'} ]);
@@ -2186,14 +2175,14 @@ var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File",
 		</script>
 		<!-- End Tracking Codes -->
 	</body>
-</html><!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="de"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/logos/doodles/2020/labour-day-2020-multiple-6753651837108371-l.png" itemprop="image"><meta content="Tag der Arbeit�2020" property="twitter:title"><meta content="Tag der Arbeit�2020 #GoogleDoodle" property="twitter:description"><meta content="Tag der Arbeit�2020 #GoogleDoodle" property="og:description"><meta content="summary_large_image" property="twitter:card"><meta content="@GoogleDoodles" property="twitter:site"><meta content="https://www.google.com/logos/doodles/2020/labour-day-2020-multiple-6753651837108371-2x.jpg" property="twitter:image"><meta content="https://www.google.com/logos/doodles/2020/labour-day-2020-multiple-6753651837108371-2x.jpg" property="og:image"><meta content="1000" property="og:image:width"><meta content="400" property="og:image:height"><title>Google</title><script nonce="Z8PFNPC6zEPxrAjGjco2ug==">(function(){window.google={kEI:'8xmsXs7LCYGzgwe8m4n4Cw',kEXPI:'0,202123,3,4,1151617,5662,731,223,755,4349,207,2414,790,10,169,882,175,364,1435,4,60,239,337,241,310,73,246,5,1129,225,196,176,182,259,25,200,290,5,33,328,59,39,98,2004,62,1123810,1197772,377,78,329040,1294,12383,4855,32692,15247,867,28684,364,8824,8384,4858,1362,9290,3026,4742,3118,7915,1808,4020,978,7931,5297,2054,920,873,1217,2976,2784,3645,11306,3221,4517,2778,519,400,2277,8,570,3819,1165,114,390,1822,530,149,1103,840,517,513,624,279,50,56,158,4100,312,1137,2,2544,125,1839,184,1777,520,1947,747,1482,93,328,1284,24,2919,2246,474,1340,747,1039,3227,773,2072,7,14149,2660,641,598,809,1043,2458,1226,1462,3935,1274,108,3407,908,2,1483,2072,881,1251,260,5,9,5410,226,995,830,840,1086,250,1099,1,2,12,334,200,30,970,461,404,6,366,1640,1906,429,278,148,189,3313,1227,1261,28,1362,862,2571,27,1344,47,1101,643,4,1336,192,17,264,2,353,5,3,15,283,352,1010,275,751,210,271,598,276,395,2,8,12,29,212,538,672,6,391,305,133,530,4,1334,120,174,329,41,297,118,226,573,764,22,109,60,234,22,126,55,76,206,678,827,8,165,4,39,826,473,213,500,2551,331,98,359,228,767,251,191,250,14,115,664,101,217,389,135,5819573,12,3297,1802585,6996022,549,333,444,1,2,80,1,900,896,1,8,1,2,2551,1,748,141,59,736,563,1,4265,1,1,1,1,137,1,1193,1401,3,420,77,10,2,3,1,2,2,4,1,1,4,8,19,4,1,1,19,9,1,1,4,4,1,5,19,1,1,5,1,2,1,3,1,28,16,4,7,11,2,4,1,1,1,4,23962283',kBL:'coVx'};google.sn='webhp';google.kHL='de';})();(function(){google.lc=[];google.li=0;google.getEI=function(a){for(var c;a&&(!a.getAttribute||!(c=a.getAttribute("eid")));)a=a.parentNode;return c||google.kEI};google.getLEI=function(a){for(var c=null;a&&(!a.getAttribute||!(c=a.getAttribute("leid")));)a=a.parentNode;return c};google.ml=function(){return null};google.time=function(){return Date.now()};google.log=function(a,c,b,d,g){if(b=google.logUrl(a,c,b,d,g)){a=new Image;var e=google.lc,f=google.li;e[f]=a;a.onerror=a.onload=a.onabort=function(){delete e[f]};google.vel&&google.vel.lu&&google.vel.lu(b);a.src=b;google.li=f+1}};google.logUrl=function(a,c,b,d,g){var e="",f=google.ls||"";b||-1!=c.search("&ei=")||(e="&ei="+google.getEI(d),-1==c.search("&lei=")&&(d=google.getLEI(d))&&(e+="&lei="+d));d="";!b&&google.cshid&&-1==c.search("&cshid=")&&"slh"!=a&&(d="&cshid="+google.cshid);b=b||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+c+e+f+"&zx="+google.time()+d;/^http:/i.test(b)&&"https:"==window.location.protocol&&(google.ml(Error("a"),!1,{src:b,glmm:1}),b="");return b};}).call(this);(function(){google.y={};google.x=function(a,b){if(a)var c=a.id;else{do c=Math.random();while(google.y[c])}google.y[c]=[a,b];return!1};google.lm=[];google.plm=function(a){google.lm.push.apply(google.lm,a)};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};}).call(this);google.f={};(function(){
+</html><!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="de"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>Google</title><script nonce="6ml+HNgvy4AKLORLOVvG6w==">(function(){window.google={kEI:'cxi0XuvFE86Ma6Kxl7AE',kEXPI:'0,202123,3,4,1151616,5663,730,224,5104,207,2414,790,10,1051,175,364,925,574,576,241,383,246,5,859,155,340,196,176,181,170,90,224,113,172,5,367,98,1120,406,571,1123877,1197779,370,78,329040,1294,12383,4855,32692,15247,867,17444,11240,9188,8384,1326,3532,1362,283,9007,3028,4740,6,3112,7913,3,1807,4020,978,7931,5297,2054,920,873,1217,2975,6430,11306,3222,4516,2778,520,399,2277,8,3681,710,1277,390,1822,530,149,1103,840,517,1466,56,4258,312,1137,2,2063,606,1839,184,1777,520,1946,2230,93,328,1284,16,2927,2246,474,1339,748,1039,2273,1,953,773,2072,7,4774,1294,8078,2663,641,598,810,1042,2458,1226,1406,56,3935,1274,108,3407,908,2,1473,322,1760,2132,265,5419,226,657,338,828,842,1086,251,1,1097,1,2,12,334,230,970,865,6,372,1633,1907,429,278,148,189,3312,2489,28,2224,2571,27,2484,651,4,1528,17,261,2,354,2,2,2,1,2,298,353,1010,1028,208,271,85,476,37,276,111,284,2,8,12,29,746,604,2,70,6,391,305,663,4,1454,49,792,580,337,151,635,169,234,22,126,40,91,206,1505,8,165,43,826,370,104,212,8,491,640,93,624,710,484,316,114,757,84,274,490,192,249,14,149,372,232,25,100,3,132,84,306,218,93,22,882,344,5818232,3309,1802585,6996022,549,333,444,1,2,80,1,900,896,1,8,1,2,2551,1,748,141,59,736,563,1,4265,1,1,1,1,137,1,1193,1401,3,443,74,11,1,2,2,3,8,1,3,1,4,6,3,1,35,9,6,1,2,1,1,2,2,15,56,15,2,14,1,4,14,3,3,13,3,2,5,9,5,4,1,3,1,2,24,1,3,3,20742151,3220020',kBL:'7gJn'};google.sn='webhp';google.kHL='de';})();(function(){google.lc=[];google.li=0;google.getEI=function(a){for(var c;a&&(!a.getAttribute||!(c=a.getAttribute("eid")));)a=a.parentNode;return c||google.kEI};google.getLEI=function(a){for(var c=null;a&&(!a.getAttribute||!(c=a.getAttribute("leid")));)a=a.parentNode;return c};google.ml=function(){return null};google.time=function(){return Date.now()};google.log=function(a,c,b,d,g){if(b=google.logUrl(a,c,b,d,g)){a=new Image;var e=google.lc,f=google.li;e[f]=a;a.onerror=a.onload=a.onabort=function(){delete e[f]};google.vel&&google.vel.lu&&google.vel.lu(b);a.src=b;google.li=f+1}};google.logUrl=function(a,c,b,d,g){var e="",f=google.ls||"";b||-1!=c.search("&ei=")||(e="&ei="+google.getEI(d),-1==c.search("&lei=")&&(d=google.getLEI(d))&&(e+="&lei="+d));d="";!b&&google.cshid&&-1==c.search("&cshid=")&&"slh"!=a&&(d="&cshid="+google.cshid);b=b||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+c+e+f+"&zx="+google.time()+d;/^http:/i.test(b)&&"https:"==window.location.protocol&&(google.ml(Error("a"),!1,{src:b,glmm:1}),b="");return b};}).call(this);(function(){google.y={};google.x=function(a,b){if(a)var c=a.id;else{do c=Math.random();while(google.y[c])}google.y[c]=[a,b];return!1};google.lm=[];google.plm=function(a){google.lm.push.apply(google.lm,a)};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};}).call(this);google.f={};(function(){
 document.documentElement.addEventListener("submit",function(b){var a;if(a=b.target){var c=a.getAttribute("data-submitfalse");a="1"==c||"q"==c&&!a.elements.q.value?!0:!1}else a=!1;a&&(b.preventDefault(),b.stopPropagation())},!0);document.documentElement.addEventListener("click",function(b){var a;a:{for(a=b.target;a&&a!=document.documentElement;a=a.parentElement)if("A"==a.tagName){a="1"==a.getAttribute("data-nohref");break a}a=!1}a&&b.preventDefault()},!0);}).call(this);
 var a=window.location,b=a.href.indexOf("#");if(0<=b){var c=a.href.substring(b+1);/(^|&)q=/.test(c)&&-1==c.indexOf("#")&&a.replace("/search?"+c.replace(/(^|&)fp=[^&]*/g,"")+"&cad=h")};</script><style>#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
-</style><style>body,td,a,p,.h{font-family:arial,sans-serif}body{margin:0;overflow-y:scroll}#gog{padding:3px 8px 0}td{line-height:.8em}.gac_m td{line-height:17px}form{margin-bottom:20px}.h{color:#36c}.q{color:#00c}.ts td{padding:0}.ts{border-collapse:collapse}em{font-weight:bold;font-style:normal}.lst{height:25px;width:496px}.gsfi,.lst{font:18px arial,sans-serif}.gsfs{font:17px arial,sans-serif}.ds{display:inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px}input{font-family:inherit}body{background:#fff;color:#000}a{color:#11c;text-decoration:none}a:hover,a:active{text-decoration:underline}.fl a{color:#36c}a:visited{color:#551a8b}.sblc{padding-top:5px}.sblc a{display:block;margin:2px 0;margin-left:13px;font-size:11px}.lsbb{background:#eee;border:solid 1px;border-color:#ccc #999 #999 #ccc;height:30px}.lsbb{display:block}.ftl,#fll a{display:inline-block;margin:0 12px}.lsb{background:url(/images/nav_logo229.png) 0 -261px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top}.lsb:active{background:#ccc}.lst:focus{outline:none}</style><script nonce="Z8PFNPC6zEPxrAjGjco2ug=="></script></head><body bgcolor="#fff"><script nonce="Z8PFNPC6zEPxrAjGjco2ug==">(function(){var src='/images/nav_logo229.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}
+</style><style>body,td,a,p,.h{font-family:arial,sans-serif}body{margin:0;overflow-y:scroll}#gog{padding:3px 8px 0}td{line-height:.8em}.gac_m td{line-height:17px}form{margin-bottom:20px}.h{color:#36c}.q{color:#00c}.ts td{padding:0}.ts{border-collapse:collapse}em{font-weight:bold;font-style:normal}.lst{height:25px;width:496px}.gsfi,.lst{font:18px arial,sans-serif}.gsfs{font:17px arial,sans-serif}.ds{display:inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px}input{font-family:inherit}body{background:#fff;color:#000}a{color:#11c;text-decoration:none}a:hover,a:active{text-decoration:underline}.fl a{color:#36c}a:visited{color:#551a8b}.sblc{padding-top:5px}.sblc a{display:block;margin:2px 0;margin-left:13px;font-size:11px}.lsbb{background:#eee;border:solid 1px;border-color:#ccc #999 #999 #ccc;height:30px}.lsbb{display:block}.ftl,#fll a{display:inline-block;margin:0 12px}.lsb{background:url(/images/nav_logo229.png) 0 -261px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top}.lsb:active{background:#ccc}.lst:focus{outline:none}</style><script nonce="6ml+HNgvy4AKLORLOVvG6w=="></script></head><body bgcolor="#fff"><script nonce="6ml+HNgvy4AKLORLOVvG6w==">(function(){var src='/images/nav_logo229.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}
 if (!iesg){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();}
 }
-})();</script><div id="mngb"> <div id=gbar><nobr><b class=gb1>Suche</b> <a class=gb1 href="https://www.google.de/imghp?hl=de&tab=wi">Bilder</a> <a class=gb1 href="https://maps.google.de/maps?hl=de&tab=wl">Maps</a> <a class=gb1 href="https://play.google.com/?hl=de&tab=w8">Play</a> <a class=gb1 href="https://www.youtube.com/?gl=DE&tab=w1">YouTube</a> <a class=gb1 href="https://news.google.de/nwshp?hl=de&tab=wn">News</a> <a class=gb1 href="https://mail.google.com/mail/?tab=wm">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=wo">Drive</a> <a class=gb1 style="text-decoration:none" href="https://www.google.de/intl/de/about/products?tab=wh"><u>Mehr</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.de/history/optout?hl=de" class=gb4>Webprotokoll</a> | <a  href="/preferences?hl=de" class=gb4>Einstellungen</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https://www.google.com/" class=gb4>Anmelden</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div> </div><center><br clear="all" id="lgpd"><div id="lga"><a href="/search?ie=UTF-8&amp;q=Tag+der+Arbeit&amp;oi=ddle&amp;ct=144865748&amp;hl=de&amp;sa=X&amp;ved=0ahUKEwiOkdr32JLpAhWB2eAKHbxNAr8QPQgD"><img alt="Tag der Arbeit�2020" border="0" height="200" src="/logos/doodles/2020/labour-day-2020-multiple-6753651837108371-l.png" title="Tag der Arbeit�2020" width="500" id="hplogo"><br></a><br></div><form action="/search" name="f"><table cellpadding="0" cellspacing="0"><tr valign="top"><td width="25%">&nbsp;</td><td align="center" nowrap=""><input name="ie" value="ISO-8859-1" type="hidden"><input value="de" name="hl" type="hidden"><input name="source" type="hidden" value="hp"><input name="biw" type="hidden"><input name="bih" type="hidden"><div class="ds" style="height:32px;margin:4px 0"><input class="lst" style="margin:0;padding:5px 8px 0 6px;vertical-align:top;color:#000" autocomplete="off" value="" title="Google-Suche" maxlength="2048" name="q" size="57"></div><br style="line-height:0"><span class="ds"><span class="lsbb"><input class="lsb" value="Google-Suche" name="btnG" type="submit"></span></span><span class="ds"><span class="lsbb"><input class="lsb" id="tsuid1" value="Auf gut Gl�ck!" name="btnI" type="submit"><script nonce="Z8PFNPC6zEPxrAjGjco2ug==">(function(){var id='tsuid1';document.getElementById(id).onclick = function(){if (this.form.q.value){this.checked = 1;if (this.form.iflsig)this.form.iflsig.disabled = false;}
-else top.location='/doodles/';};})();</script><input value="AINFCbYAAAAAXqwoA_9KhykNfgMVcJU7n0hJpX547hPE" name="iflsig" type="hidden"></span></span></td><td class="fl sblc" align="left" nowrap="" width="25%"><a href="/advanced_search?hl=de&amp;authuser=0">Erweiterte Suche</a></td></tr></table><input id="gbv" name="gbv" type="hidden" value="1"><script nonce="Z8PFNPC6zEPxrAjGjco2ug==">(function(){var a,b="1";if(document&&document.getElementById)if("undefined"!=typeof XMLHttpRequest)b="2";else if("undefined"!=typeof ActiveXObject){var c,d,e=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"];for(c=0;d=e[c++];)try{new ActiveXObject(d),b="2"}catch(h){}}a=b;if("2"==a&&-1==location.search.indexOf("&gbv=2")){var f=google.gbvu,g=document.getElementById("gbv");g&&(g.value=a);f&&window.setTimeout(function(){location.href=f},0)};}).call(this);</script></form><div id="gac_scont"></div><div style="font-size:83%;min-height:3.5em"><br></div><span id="footer"><div style="font-size:10pt"><div style="margin:19px auto;text-align:center" id="fll"><a href="/intl/de/ads/">Werben mit Google</a><a href="/services/">Unternehmensangebote</a><a href="/intl/de/about.html">�ber Google</a><a href="https://www.google.com/setprefdomain?prefdom=DE&amp;prev=https://www.google.de/&amp;sig=K_7sYKegc74FJO2UfbRTRhYlp-uco%3D">Google.de</a></div></div><p style="font-size:8pt;color:#767676">&copy; 2020 - <a href="/intl/de/policies/privacy/">Datenschutzerkl�rung</a> - <a href="/intl/de/policies/terms/">Nutzungsbedingungen</a></p></span></center><script nonce="Z8PFNPC6zEPxrAjGjco2ug==">(function(){window.google.cdo={height:0,width:0};(function(){var a=window.innerWidth,b=window.innerHeight;if(!a||!b){var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body;a=d.clientWidth;b=d.clientHeight}a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);}).call(this);})();(function(){var u='/xjs/_/js/k\x3dxjs.hp.en.LcZnv7NaZVs.O/m\x3dsb_he,d/am\x3dAF8IbA4/d\x3d1/rs\x3dACT90oFMpvyPjLgj1EiQDFdrQYTeZOhZhg';
-setTimeout(function(){var b=document;var a="SCRIPT";"application/xhtml+xml"===b.contentType&&(a=a.toLowerCase());a=b.createElement(a);a.src=u;google.timers&&google.timers.load&&google.tick&&google.tick("load","xjsls");document.body.appendChild(a)},0);})();(function(){window.google.xjsu='/xjs/_/js/k\x3dxjs.hp.en.LcZnv7NaZVs.O/m\x3dsb_he,d/am\x3dAF8IbA4/d\x3d1/rs\x3dACT90oFMpvyPjLgj1EiQDFdrQYTeZOhZhg';})();function _DumpException(e){throw e;}
+})();</script><div id="mngb"> <div id=gbar><nobr><b class=gb1>Suche</b> <a class=gb1 href="https://www.google.de/imghp?hl=de&tab=wi">Bilder</a> <a class=gb1 href="https://maps.google.de/maps?hl=de&tab=wl">Maps</a> <a class=gb1 href="https://play.google.com/?hl=de&tab=w8">Play</a> <a class=gb1 href="https://www.youtube.com/?gl=DE&tab=w1">YouTube</a> <a class=gb1 href="https://news.google.de/nwshp?hl=de&tab=wn">News</a> <a class=gb1 href="https://mail.google.com/mail/?tab=wm">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=wo">Drive</a> <a class=gb1 style="text-decoration:none" href="https://www.google.de/intl/de/about/products?tab=wh"><u>Mehr</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.de/history/optout?hl=de" class=gb4>Webprotokoll</a> | <a  href="/preferences?hl=de" class=gb4>Einstellungen</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=de&passive=true&continue=https://www.google.com/" class=gb4>Anmelden</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div> </div><center><br clear="all" id="lgpd"><div id="lga"><img alt="Google" height="92" src="/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png" style="padding:28px 0 14px" width="272" id="hplogo"><br><br></div><form action="/search" name="f"><table cellpadding="0" cellspacing="0"><tr valign="top"><td width="25%">&nbsp;</td><td align="center" nowrap=""><input name="ie" value="ISO-8859-1" type="hidden"><input value="de" name="hl" type="hidden"><input name="source" type="hidden" value="hp"><input name="biw" type="hidden"><input name="bih" type="hidden"><div class="ds" style="height:32px;margin:4px 0"><input class="lst" style="margin:0;padding:5px 8px 0 6px;vertical-align:top;color:#000" autocomplete="off" value="" title="Google-Suche" maxlength="2048" name="q" size="57"></div><br style="line-height:0"><span class="ds"><span class="lsbb"><input class="lsb" value="Google-Suche" name="btnG" type="submit"></span></span><span class="ds"><span class="lsbb"><input class="lsb" id="tsuid1" value="Auf gut Gl�ck!" name="btnI" type="submit"><script nonce="6ml+HNgvy4AKLORLOVvG6w==">(function(){var id='tsuid1';document.getElementById(id).onclick = function(){if (this.form.q.value){this.checked = 1;if (this.form.iflsig)this.form.iflsig.disabled = false;}
+else top.location='/doodles/';};})();</script><input value="AINFCbYAAAAAXrQmg30JLWaVkATt4e40OZSnJxAvCmdt" name="iflsig" type="hidden"></span></span></td><td class="fl sblc" align="left" nowrap="" width="25%"><a href="/advanced_search?hl=de&amp;authuser=0">Erweiterte Suche</a></td></tr></table><input id="gbv" name="gbv" type="hidden" value="1"><script nonce="6ml+HNgvy4AKLORLOVvG6w==">(function(){var a,b="1";if(document&&document.getElementById)if("undefined"!=typeof XMLHttpRequest)b="2";else if("undefined"!=typeof ActiveXObject){var c,d,e=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"];for(c=0;d=e[c++];)try{new ActiveXObject(d),b="2"}catch(h){}}a=b;if("2"==a&&-1==location.search.indexOf("&gbv=2")){var f=google.gbvu,g=document.getElementById("gbv");g&&(g.value=a);f&&window.setTimeout(function(){location.href=f},0)};}).call(this);</script></form><div id="gac_scont"></div><div style="font-size:83%;min-height:3.5em"><br></div><span id="footer"><div style="font-size:10pt"><div style="margin:19px auto;text-align:center" id="fll"><a href="/intl/de/ads/">Werben mit Google</a><a href="/services/">Unternehmensangebote</a><a href="/intl/de/about.html">�ber Google</a><a href="https://www.google.com/setprefdomain?prefdom=DE&amp;prev=https://www.google.de/&amp;sig=K_H3wOQawLW3Av33-aiZPAv6DtIE4%3D">Google.de</a></div></div><p style="font-size:8pt;color:#767676">&copy; 2020 - <a href="/intl/de/policies/privacy/">Datenschutzerkl�rung</a> - <a href="/intl/de/policies/terms/">Nutzungsbedingungen</a></p></span></center><script nonce="6ml+HNgvy4AKLORLOVvG6w==">(function(){window.google.cdo={height:0,width:0};(function(){var a=window.innerWidth,b=window.innerHeight;if(!a||!b){var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body;a=d.clientWidth;b=d.clientHeight}a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);}).call(this);})();(function(){var u='/xjs/_/js/k\x3dxjs.hp.en.6hfPBk02OKg.O/m\x3dsb_he,d/am\x3dAF8IbA4/d\x3d1/rs\x3dACT90oG4ukkmhoWyvBIA2nhBGyt66X7ojg';
+setTimeout(function(){var b=document;var a="SCRIPT";"application/xhtml+xml"===b.contentType&&(a=a.toLowerCase());a=b.createElement(a);a.src=u;google.timers&&google.timers.load&&google.tick&&google.tick("load","xjsls");document.body.appendChild(a)},0);})();(function(){window.google.xjsu='/xjs/_/js/k\x3dxjs.hp.en.6hfPBk02OKg.O/m\x3dsb_he,d/am\x3dAF8IbA4/d\x3d1/rs\x3dACT90oG4ukkmhoWyvBIA2nhBGyt66X7ojg';})();function _DumpException(e){throw e;}
 function _F_installCss(c){}
-(function(){google.jl={em:[],emw:false,lls:'default',pdt:0,snet:true,uwp:true};})();(function(){var pmc='{\x22d\x22:{},\x22sb_he\x22:{\x22agen\x22:true,\x22cgen\x22:true,\x22client\x22:\x22heirloom-hp\x22,\x22dh\x22:true,\x22dhqt\x22:true,\x22ds\x22:\x22\x22,\x22ffql\x22:\x22de\x22,\x22fl\x22:true,\x22host\x22:\x22google.com\x22,\x22isbh\x22:28,\x22jsonp\x22:true,\x22lm\x22:true,\x22msgs\x22:{\x22cibl\x22:\x22Suche l�schen\x22,\x22dym\x22:\x22Meintest du:\x22,\x22lcky\x22:\x22Auf gut Gl�ck!\x22,\x22lml\x22:\x22Weitere Informationen\x22,\x22oskt\x22:\x22Eingabetools\x22,\x22psrc\x22:\x22Diese Suchanfrage wurde aus deinem \\u003Ca href\x3d\\\x22/history\\\x22\\u003EWebprotokoll\\u003C/a\\u003E entfernt.\x22,\x22psrl\x22:\x22Entfernen\x22,\x22sbit\x22:\x22Bildersuche\x22,\x22srch\x22:\x22Google-Suche\x22},\x22ovr\x22:{},\x22pq\x22:\x22\x22,\x22refpd\x22:true,\x22rfs\x22:[],\x22sbpl\x22:16,\x22sbpr\x22:16,\x22scd\x22:10,\x22stok\x22:\x22I27UYTdqKja_GMeZHkPfdXLpWI4\x22,\x22uhde\x22:false}}';google.pmc=JSON.parse(pmc);})();</script>        </body></html>
+(function(){google.jl={em:[],emw:false,lls:'default',pdt:0,snet:true,uwp:true};})();(function(){var pmc='{\x22d\x22:{},\x22sb_he\x22:{\x22agen\x22:true,\x22cgen\x22:true,\x22client\x22:\x22heirloom-hp\x22,\x22dh\x22:true,\x22dhqt\x22:true,\x22ds\x22:\x22\x22,\x22ffql\x22:\x22de\x22,\x22fl\x22:true,\x22host\x22:\x22google.com\x22,\x22isbh\x22:28,\x22jsonp\x22:true,\x22lm\x22:true,\x22msgs\x22:{\x22cibl\x22:\x22Suche l�schen\x22,\x22dym\x22:\x22Meintest du:\x22,\x22lcky\x22:\x22Auf gut Gl�ck!\x22,\x22lml\x22:\x22Weitere Informationen\x22,\x22oskt\x22:\x22Eingabetools\x22,\x22psrc\x22:\x22Diese Suchanfrage wurde aus deinem \\u003Ca href\x3d\\\x22/history\\\x22\\u003EWebprotokoll\\u003C/a\\u003E entfernt.\x22,\x22psrl\x22:\x22Entfernen\x22,\x22sbit\x22:\x22Bildersuche\x22,\x22srch\x22:\x22Google-Suche\x22},\x22ovr\x22:{},\x22pq\x22:\x22\x22,\x22refpd\x22:true,\x22rfs\x22:[],\x22sbpl\x22:16,\x22sbpr\x22:16,\x22scd\x22:10,\x22stok\x22:\x22_Yx7ZGbYoigE8qp8uDZASUwmbzs\x22,\x22uhde\x22:false}}';google.pmc=JSON.parse(pmc);})();</script>        </body></html>

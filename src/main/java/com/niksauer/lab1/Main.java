@@ -9,7 +9,9 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) throws IOException, InterruptedException {
-	    Exercise1 exercise1 = new Exercise1();
+        System.out.println("Lab 1");
+
+        Exercise1 exercise1 = new Exercise1();
 	    exercise1.run();
 
         Exercise3 exercise3 = new Exercise3();
